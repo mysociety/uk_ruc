@@ -6,7 +6,6 @@ env/
 bigenv/
 .vagrant
 .vscode
-_output/
 _dependencies/
 media/
 #################
@@ -20,7 +19,6 @@ media/
 bin/
 tmp/
 target/
-output/
 *.tmp
 *.bak
 *.swp

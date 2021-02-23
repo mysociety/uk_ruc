@@ -26,8 +26,8 @@ This is a measure of density that makes most sense in England. A measure roughly
 
 This leads to a 2-fold and 3-fold scale:
 
-CRUC-2: 0-Urban/1-Rural
-CRUC-3: 0-Urban/1-Rural/2-More Rural
+* CRUC-2: 0-Urban/1-Rural
+* CRUC-3: 0-Urban/1-Rural/2-More Rural
 
 Where Urban always means more than 10,000 and 'More Rural' should generally track different ideas of a 'village' sized settlement. 
 

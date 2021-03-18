@@ -5,6 +5,7 @@ See readme for details
 
 """
 import pandas as pd
+import numpy as np
 from pathlib import Path
 
 
@@ -75,26 +76,37 @@ def create_composite_measure():
                   ]
 
     df = pd.concat(components)
+
+    df = add_density_deciles(df)
     df.to_csv(Path("output", "composite_ruc.csv"), index=False)
 
 
-def analysis_pivot():
+def add_density_deciles(df):
     """
-    Composition by nation
+    Function to rank deciles by overall density
+    Creates deciles and quintiles based on 
+    both area and population
     """
-    df = pd.read_csv(Path("output", "composite_ruc.csv"))
-    for var in ["ukruc-2", "ukruc-3"]:
-        pt = df.pivot_table("lsoa", var, "nation", aggfunc="count")
-        pt = pt.apply(lambda x: (x / float(x.sum())) * 100
-                      ).round(2)
-        pt = pt.reset_index()  # bring back column name
-        pt[var] = pt[var].map({0: "Urban", 1: "Rural", 2: "More Rural"})
-        pt.to_csv(Path("analysis", var + ".csv"), index=False)
-        for nation in "ESWN":
-            pt[nation] = pt[nation].map("{:,.0f}%".format)
-        pt.to_markdown(Path("analysis", var + ".md"), index=False)
+    pop = pd.read_csv(
+        Path("source_files", "2019_population.csv"), thousands=r',')
+    area = pd.read_csv(
+        Path("source_files", "lsoa_to_area.csv"), thousands=r',')
+    df = df.merge(pop, on="lsoa")
+    df = df.merge(area, on="lsoa")
+    df["density"] = df["pop"] / df["area"]
+    df = df.sort_values("density", ascending=False)
+    df["cum_pop"] = df["pop"].astype("int").cumsum()
+    df["cum_area"] = df["area"].astype("float").cumsum()
+
+    for v in ["pop", "area"]:
+        df[f"density_{v}_decile"] = np.ceil(
+            df[f"cum_{v}"]/sum(df[v]) * 10).astype(int)
+        df[f"density_{v}_quintile"] = np.ceil(
+            df[f"cum_{v}"]/sum(df[v]) * 5).astype(int)
+        df = df.drop(columns=[f"cum_{v}"])
+
+    return df
 
 
 if __name__ == "__main__":
     create_composite_measure()
-    analysis_pivot()

@@ -32,7 +32,7 @@ This leads to a 2-fold and 3-fold scale:
 Where Urban always means more than 10,000 and 'More Rural' should generally track different ideas of a 'village' sized settlement. 
 
 
-## National composition of different measures
+## National distribution of urban and rural areas
 
 The following tables the breakdown of population between the different urban/rural categories (2019 population).
 
@@ -139,7 +139,7 @@ The scale is built in two steps. As the Northern Ireland lookup only provides SO
 
 This is done by converting the settlement band to a number from 1-8 (where 8 is the most rural), taking an average of the SA bands, and rounding to the nearest whole number, and then reconverting into a Band for the SOA. 
 
-The three different sets of statistics are then combined using the describes steps to create the composite scales.
+The three different sets of statistics are then combined using the described steps to create the composite scales.
 
 
 ## Licencing
@@ -149,6 +149,16 @@ Source indexes for each country are licenced as Open Government License (OGL) ve
 Unless otherwise stated, composite datasets are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 Code and scripts are licenced under a MIT Licence. 
+
+## Citation
+
+Future versions may use same URL, but past versions will be included in git history.
+
+Suggested citation if using the dataset:
+
+```
+Parsons, Alex (2021), UK Rural/Urban measures, https://github.com/mysociety/uk_ruc
+```
 
 ## Source files
 

@@ -1,5 +1,5 @@
 import rich_click as click
-
+from .create_unified_measures import create_composite_measure
 
 @click.group()
 def cli():
@@ -11,8 +11,8 @@ def main():
 
 
 @cli.command()
-def example():
-    print("This is an example function")
+def build():
+    create_composite_measure()
 
 
 if __name__ == "__main__":

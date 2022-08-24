@@ -1,9 +1,9 @@
 services:
   app:
-    image: mysociety/template_data_repo:${TAG:-latest}
+    image: mysociety/uk_ruc:${TAG:-latest}
     build:
       context: .
       dockerfile: Dockerfile.dev
-    working_dir: /workspaces/template_data_repo      
+    working_dir: /workspaces/uk_ruc      
     volumes:
-      - ./:/workspaces/template_data_repo/
+      - ./:/workspaces/uk_ruc/

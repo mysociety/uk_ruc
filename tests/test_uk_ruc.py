@@ -1,4 +1,4 @@
-import template_data_repo
+import uk_ruc
 
 import pytest
 

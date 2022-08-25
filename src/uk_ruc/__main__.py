@@ -1,5 +1,6 @@
 import rich_click as click
-from .create_unified_measures import create_composite_measure
+from .create_unified_measure import create_composite_measure
+
 
 @click.group()
 def cli():

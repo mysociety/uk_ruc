@@ -40,39 +40,63 @@ LSOA are based on roughly even population, so the distribution of LSOA better re
 
 ### Two-fold divide (population)
 
-| ukruc-2   | E   | N   | S   | W   |
-|-----------|-----|-----|-----|-----|
-| Urban     | 83% | 55% | 71% | 69% |
-| Rural     | 17% | 45% | 29% | 31% |
+
+
+
+|   | E | N | S | W |
+| :--- | :--- | :--- | :--- | :--- |
+|
+| 83% | 55% | 71% | 69% |
+| 17% | 45% | 29% | 31% |
+
+
 
 
 ### Two-fold divide (area)
 
-| ukruc-2   | E   | N   | S   | W   |
-|-----------|-----|-----|-----|-----|
-| Urban     | 19% | 5%  | 4%  | 11% |
-| Rural     | 81% | 95% | 96% | 89% |
+
+
+
+|   | E | N | S | W |
+| :--- | :--- | :--- | :--- | :--- |
+|
+| 19% | 5% | 4% | 11% |
+| 81% | 95% | 96% | 89% |
+
+
 
 
 ### Three-fold divide (population)
 
 
-| ukruc-3    | E   | N   | S   | W   |
-|------------|-----|-----|-----|-----|
-| Urban      | 83% | 55% | 71% | 69% |
-| Rural      | 9%  | 13% | 12% | 17% |
-| More Rural | 8%  | 32% | 17% | 14% |
+
+
+
+|   | E | N | S | W |
+| :--- | :--- | :--- | :--- | :--- |
+|
+| 83% | 55% | 71% | 69% |
+| 9% | 13% | 12% | 17% |
+| 8% | 32% | 17% | 14% |
+
+
 
 
 ### Three-fold divide (area)
 
 
 
-| ukruc-3    | E   | N   | S   | W   |
-|------------|-----|-----|-----|-----|
-| Urban      | 19% | 5%  | 4%  | 11% |
-| Rural      | 15% | 7%  | 2%  | 11% |
-| More Rural | 66% | 88% | 94% | 78% |
+
+
+
+|   | E | N | S | W |
+| :--- | :--- | :--- | :--- | :--- |
+|
+| 19% | 5% | 4% | 11% |
+| 15% | 7% | 2% | 11% |
+| 66% | 88% | 94% | 78% |
+
+
 
 
 ## Population density index
@@ -89,51 +113,63 @@ The following tables and shows the differing distributions of population and are
 
 
 
-|   Overall density decile (pop) | E   | N   | S   | W   |
-|--------------------------------|-----|-----|-----|-----|
-|                              1 | 11% | 1%  | 6%  | 2%  |
-|                              2 | 11% | 4%  | 9%  | 4%  |
-|                              3 | 10% | 5%  | 11% | 5%  |
-|                              4 | 10% | 6%  | 13% | 7%  |
-|                              5 | 10% | 7%  | 13% | 8%  |
-|                              6 | 10% | 9%  | 13% | 9%  |
-|                              7 | 10% | 11% | 12% | 11% |
-|                              8 | 10% | 12% | 6%  | 16% |
-|                              9 | 10% | 16% | 4%  | 20% |
-|                             10 | 9%  | 30% | 13% | 17% |
+
+
+
+|   | E | N | S | W |
+| :--- | :--- | :--- | :--- | :--- |
+|
+| 11% | 1% | 6% | 2% |
+| 11% | 4% | 9% | 4% |
+| 10% | 5% | 11% | 5% |
+| 10% | 6% | 13% | 7% |
+| 10% | 7% | 13% | 8% |
+| 10% | 9% | 13% | 9% |
+| 10% | 11% | 12% | 11% |
+| 10% | 12% | 6% | 16% |
+| 10% | 16% | 4% | 20% |
+| 9% | 30% | 13% | 17% |
+
+
 
 
 
     
-![png](_notebook_resources/readme_13_1.png)
+![](_readme_resources/background_and_analysis_readme_14_1.png)
     
 
 
 ## Area based distribution
 
-|   Overall density decile (area) | E   | N   | S   | W   |
-|---------------------------------|-----|-----|-----|-----|
-|                               1 | 16% | 6%  | 2%  | 8%  |
-|                               2 | 16% | 8%  | 1%  | 9%  |
-|                               3 | 15% | 13% | 1%  | 8%  |
-|                               4 | 14% | 17% | 2%  | 7%  |
-|                               5 | 14% | 19% | 2%  | 9%  |
-|                               6 | 11% | 22% | 5%  | 14% |
-|                               7 | 8%  | 14% | 11% | 18% |
-|                               8 | 5%  | 1%  | 15% | 26% |
-|                               9 | 2%  | 0%  | 28% | 1%  |
-|                              10 | 0%  | 0%  | 31% | 0%  |
+
+
+
+|   | E | N | S | W |
+| :--- | :--- | :--- | :--- | :--- |
+|
+| 16% | 6% | 2% | 8% |
+| 16% | 8% | 1% | 9% |
+| 15% | 13% | 1% | 8% |
+| 14% | 17% | 2% | 7% |
+| 14% | 19% | 2% | 9% |
+| 11% | 22% | 5% | 14% |
+| 8% | 14% | 11% | 18% |
+| 5% | 1% | 15% | 26% |
+| 2% | 0% | 28% | 1% |
+| 0% | 0% | 31% | 0% |
+
+
 
 
 
     
-![png](_notebook_resources/readme_15_1.png)
+![](_readme_resources/background_and_analysis_readme_16_1.png)
     
 
 
 ## Rebuilding
 
-Run `python create_unified_measure.py`.
+Run `dataset build`.
 
 The scale is built in two steps. As the Northern Ireland lookup only provides SOA to rural/urban/mixed, a settlement band per Super Output Areas needs to be recomposited from Small Areas.
 

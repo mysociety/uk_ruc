@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: UK Composite Rural Urban Classification
+title: UK Rural Urban Classification
 description: Unified rural/urban classification for whole UK
 
 baseurl: "/uk_ruc"
@@ -21,7 +21,11 @@ defaults:
       path: ""
       type: analysis
     values:
-      layout: default
+      layout: datasets/analysis
+      external_css:
+        - https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css
+      external_js:
+        - https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js
   - scope:
       path: ""
       type: versionlists

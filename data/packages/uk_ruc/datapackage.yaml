@@ -2,6 +2,10 @@ name: uk_ruc
 title: UK Composite Urban Rural Classification (RUC)
 description: "UK-wide dataset of the urban/rural nature of small-areas (LSOA/DZ/SOAs)\n"
 version: 1.0.0
+keywords:
+- Geodata
+- United Kingdom
+- LSOA
 licenses:
 - name: CC-BY-4.0
   path: https://creativecommons.org/licenses/by/4.0/

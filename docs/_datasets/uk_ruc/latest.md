@@ -35,6 +35,7 @@ custom:
       render: true
   change_log:
     0.1.0: Don't need to increment, first version
+    1.0.0: Existing dataset, bump to supported version
 resources:
 - title: Composite Rural/Urban Classification
   description: Combined metric for all four UK nations of rural/urban classification
@@ -169,6 +170,6 @@ resources:
       example: 1
   hash: 993292696e09f0de31781d4b22af7517
   download_id: uk-ruc-composite-ruc
-full_version: 0.1.0
+full_version: 1.0.0
 permalink: /datasets/uk_ruc/latest
 ---

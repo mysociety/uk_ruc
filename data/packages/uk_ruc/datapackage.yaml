@@ -1,7 +1,7 @@
 name: uk_ruc
 title: UK Composite Urban Rural Classification (RUC)
 description: "UK-wide dataset of the urban/rural nature of small-areas (LSOA/DZ/SOAs)\n"
-version: 1.0.0
+version: 1.0.1
 keywords:
 - Geodata
 - United Kingdom
@@ -39,3 +39,4 @@ custom:
   change_log:
     0.1.0: Don't need to increment, first version
     1.0.0: Existing dataset, bump to supported version
+    1.0.1: keywords changed from 'None' to '['Geodata', 'United Kingdom', 'LSOA']'

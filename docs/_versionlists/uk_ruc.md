@@ -1,6 +1,6 @@
 ---
 name: uk_ruc
-title: UK Composite Urban Rural Classifcation (RUC)
+title: UK Composite Urban Rural Classification (RUC)
 versions:
   0.1.0:
   - '0'

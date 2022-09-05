@@ -16,7 +16,7 @@ contributors:
   path: https://mysociety.org
   role: author
 custom:
-  build: uk_ruc.create_unified_measure:create_composite_measure
+  build: uk_ruc.__main__:create_files
   tests:
   - test_uk_ruc
   dataset_order: 0
@@ -41,6 +41,7 @@ custom:
     0.1.0: Don't need to increment, first version
     1.0.0: Existing dataset, bump to supported version
     1.0.1: keywords changed from 'None' to '['Geodata', 'United Kingdom', 'LSOA']'
+    1.1.0: 'New resource(s) added: la_ruc'
 resources:
 - title: Composite Rural/Urban Classification
   description: Combined metric for all four UK nations of rural/urban classification
@@ -175,6 +176,60 @@ resources:
       example: 1
   hash: 993292696e09f0de31781d4b22af7517
   download_id: uk-ruc-composite-ruc
-full_version: 1.0.1
+- title: Local Authority RUC Profile
+  description: Based on LSOA information, a RUC label and profile for each local authority.
+  custom:
+    row_count: 409
+  path: la_ruc.csv
+  name: la_ruc
+  profile: tabular-data-resource
+  scheme: file
+  format: csv
+  hashing: md5
+  encoding: utf-8
+  schema:
+    fields:
+    - name: local-authority-code
+      type: string
+      description: Three/four letter code for a local authority.
+      constraints:
+        unique: true
+      example: ABC
+    - name: highly-rural
+      type: number
+      description: Percentage of the population of an authority that live in a highly
+        rural LSOA
+      constraints:
+        unique: false
+      example: 0.4074929648452265
+    - name: rural
+      type: number
+      description: Percentage of the population of an authority that live in a rural
+        LSOA
+      constraints:
+        unique: false
+      example: 0.1025615896883064
+    - name: urban
+      type: number
+      description: Percentage of the population of an authority that live in an urban
+        LSOA
+      constraints:
+        unique: false
+      example: 0.4899454454664669
+    - name: ruc-cluster-label
+      type: string
+      description: Local authorities grouped into four clusters based on the different
+        profiles of the three figures.
+      constraints:
+        unique: false
+        enum:
+        - Sparse and rural
+        - Urban
+        - Rural
+        - Urban with rural areas
+      example: Sparse and rural
+  hash: ded7311afad4dbda5e3ca15c7e110842
+  download_id: uk-ruc-la-ruc
+full_version: 1.1.0
 permalink: /datasets/uk_ruc/latest
 ---

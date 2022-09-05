@@ -15,7 +15,7 @@ contributors:
   path: https://mysociety.org
   role: author
 custom:
-  build: uk_ruc.create_unified_measure:create_composite_measure
+  build: uk_ruc.__main__:create_files
   tests:
   - test_uk_ruc
   dataset_order: 0

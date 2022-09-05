@@ -1,0 +1,410 @@
+local-authority-code,ruc-cluster-label
+ABC,Sparse and rural
+ABD,Sparse and rural
+ABE,Urban
+ADU,Urban
+AGB,Sparse and rural
+AGY,Rural
+ALL,Rural
+AMB,Urban with rural areas
+AND,Urban with rural areas
+ANN,Urban with rural areas
+ANS,Urban with rural areas
+ARU,Urban
+ASF,Urban with rural areas
+ASH,Urban
+BAB,Rural
+BAE,Urban with rural areas
+BAI,Urban
+BAN,Urban with rural areas
+BAR,Urban with rural areas
+BAS,Urban with rural areas
+BBD,Urban
+BDF,Urban with rural areas
+BDG,Urban
+BEN,Urban
+BEX,Urban
+BFS,Urban
+BGE,Urban with rural areas
+BGW,Urban
+BIR,Urban
+BLA,Urban with rural areas
+BNE,Urban
+BNH,Urban
+BNS,Urban
+BOL,Urban
+BOS,Rural
+BOT,Urban with rural areas
+BPC,Urban
+BPL,Urban
+BRA,Urban with rural areas
+BRC,Urban
+BRD,Urban
+BRE,Sparse and rural
+BRM,Urban with rural areas
+BRO,Rural
+BRT,Urban
+BRW,Urban with rural areas
+BRX,Urban
+BRY,Urban
+BST,Urban
+BUC,Urban with rural areas
+BUN,Urban
+BUR,Urban
+CAB,Urban
+CAN,Urban
+CAR,Urban with rural areas
+CAS,Urban
+CAT,Urban
+CAY,Urban with rural areas
+CBF,Urban with rural areas
+CCG,Sparse and rural
+CGN,Sparse and rural
+CHA,Urban
+CHE,Urban with rural areas
+CHI,Rural
+CHL,Urban with rural areas
+CHO,Urban with rural areas
+CHR,Urban with rural areas
+CHS,Urban
+CHT,Urban
+CHW,Urban with rural areas
+CLD,Urban
+CLK,Rural
+CMD,Urban
+CMN,Urban with rural areas
+COL,Urban with rural areas
+CON,Rural
+COP,Rural
+COT,Rural
+COV,Urban
+CRA,Rural
+CRF,Urban
+CRW,Urban
+CRY,Urban
+CWY,Urban with rural areas
+DAC,Urban
+DAL,Urban
+DAR,Urban
+DEB,Sparse and rural
+DEN,Rural
+DER,Urban
+DGY,Sparse and rural
+DNC,Urban
+DND,Urban
+DOV,Urban with rural areas
+DRS,Urban with rural areas
+DST,Urban with rural areas
+DUD,Urban
+DUR,Rural
+EAL,Urban
+EAS,Urban
+EAT,Urban
+EAY,Rural
+ECA,Rural
+EDE,Rural
+EDH,Urban
+EDN,Sparse and rural
+EDU,Urban
+EHA,Urban with rural areas
+EHE,Urban with rural areas
+ELI,Rural
+ELM,Urban
+ELN,Rural
+ELS,Sparse and rural
+ENF,Urban
+EPP,Urban with rural areas
+EPS,Urban
+ERE,Urban
+ERW,Urban
+ERY,Urban with rural areas
+ESK,Urban with rural areas
+EST,Urban with rural areas
+EXE,Urban
+FAL,Urban
+FAR,Urban
+FEN,Urban with rural areas
+FIF,Urban with rural areas
+FLN,Urban with rural areas
+FMO,Sparse and rural
+FOE,Sparse and rural
+FYL,Urban with rural areas
+GAT,Urban
+GED,Urban with rural areas
+GLG,Urban
+GLO,Urban
+GOS,Urban
+GRA,Urban with rural areas
+GRE,Urban
+GRT,Urban with rural areas
+GRY,Urban with rural areas
+GWN,Rural
+HAA,Urban
+HAE,Sparse and rural
+HAG,Urban with rural areas
+HAL,Urban
+HAO,Rural
+HAR,Urban
+HAS,Urban
+HAT,Urban with rural areas
+HAV,Urban
+HCK,Urban
+HEF,Sparse and rural
+HER,Urban
+HIG,Urban with rural areas
+HIL,Urban
+HIN,Urban with rural areas
+HLD,Sparse and rural
+HMF,Urban
+HNS,Urban
+HOR,Rural
+HPL,Urban
+HRW,Urban
+HRY,Urban
+HUN,Rural
+HYN,Urban
+IOS,Sparse and rural
+IOW,Urban with rural areas
+IPS,Urban
+ISL,Urban
+IVC,Urban
+KEC,Urban
+KHL,Urban
+KIN,Sparse and rural
+KIR,Urban
+KTT,Urban
+KWL,Urban
+LAC,Urban with rural areas
+LBC,Urban with rural areas
+LBH,Urban
+LCE,Urban
+LDS,Urban
+LEE,Urban with rural areas
+LEW,Urban
+LIC,Urban
+LIF,Urban with rural areas
+LIV,Urban
+LND,Urban
+LUT,Urban
+MAI,Urban with rural areas
+MAL,Rural
+MAN,Urban
+MAS,Urban
+MAV,Sparse and rural
+MDB,Urban
+MDE,Rural
+MDW,Urban
+MEA,Urban with rural areas
+MEL,Urban with rural areas
+MEN,Urban with rural areas
+MIK,Urban
+MLN,Urban with rural areas
+MOL,Urban with rural areas
+MON,Urban with rural areas
+MRT,Urban
+MRY,Sparse and rural
+MSS,Urban
+MSU,Sparse and rural
+MTY,Urban
+MUL,Sparse and rural
+NAY,Urban with rural areas
+NBL,Rural
+NDE,Rural
+NEA,Rural
+NEC,Urban with rural areas
+NED,Urban
+NEL,Urban
+NET,Urban
+NEW,Urban with rural areas
+NGM,Urban
+NHE,Urban
+NKE,Rural
+NLK,Urban
+NLN,Urban with rural areas
+NMD,Sparse and rural
+NNO,Sparse and rural
+NNT,Urban with rural areas
+NOW,Urban
+NSM,Urban
+NTL,Urban with rural areas
+NTY,Urban
+NUN,Urban
+NWA,Rural
+NWL,Rural
+NWM,Urban
+NWP,Urban
+OAD,Urban
+OLD,Urban
+ORK,Sparse and rural
+OXO,Urban
+PEM,Rural
+PEN,Urban
+PKN,Sparse and rural
+PLY,Urban
+POR,Urban
+POW,Sparse and rural
+PRE,Urban
+PTE,Urban
+RCC,Urban with rural areas
+RCH,Urban
+RCT,Urban with rural areas
+RDB,Urban
+RDG,Urban
+RED,Urban
+REI,Urban
+RFW,Urban
+RIB,Rural
+RIC,Urban
+RIH,Rural
+ROC,Urban
+ROH,Rural
+ROS,Urban
+ROT,Urban
+RUG,Urban with rural areas
+RUH,Urban
+RUN,Urban
+RUS,Rural
+RUT,Rural
+RYE,Sparse and rural
+SAL,Urban
+SAW,Urban
+SAY,Urban with rural areas
+SCA,Rural
+SCB,Sparse and rural
+SCE,Urban with rural areas
+SDE,Rural
+SEG,Urban with rural areas
+SEL,Rural
+SEV,Urban with rural areas
+SFT,Urban
+SGC,Urban
+SHA,Rural
+SHE,Urban with rural areas
+SHF,Urban
+SHN,Urban
+SHO,Rural
+SHR,Rural
+SKE,Urban with rural areas
+SKP,Urban
+SLA,Rural
+SLF,Urban
+SLG,Urban
+SLK,Urban with rural areas
+SND,Urban
+SNO,Rural
+SOL,Urban
+SOS,Urban
+SOX,Rural
+SPE,Urban
+SRI,Urban
+SSO,Rural
+SST,Urban with rural areas
+STA,Urban with rural areas
+STE,Urban
+STF,Urban with rural areas
+STG,Urban with rural areas
+STH,Urban
+STN,Urban
+STO,Urban with rural areas
+STR,Rural
+STT,Urban
+STV,Urban
+STY,Urban
+SUR,Urban
+SWA,Urban
+SWD,Urban
+SWK,Urban
+SWL,Urban with rural areas
+SWT,Urban with rural areas
+TAM,Urban
+TAN,Urban with rural areas
+TAW,Urban
+TEI,Rural
+TEN,Urban with rural areas
+TES,Urban with rural areas
+TEW,Urban with rural areas
+TFW,Urban
+THA,Urban
+THE,Urban
+THR,Urban
+TOB,Urban
+TOF,Urban
+TON,Urban with rural areas
+TOR,Sparse and rural
+TRF,Urban
+TUN,Urban with rural areas
+TWH,Urban
+UTT,Rural
+VAL,Urban with rural areas
+VGL,Urban with rural areas
+WAE,Urban with rural areas
+WAT,Urban
+WAW,Urban
+WBK,Urban with rural areas
+WDE,Sparse and rural
+WDU,Urban
+WEA,Urban with rural areas
+WEW,Urban
+WFT,Urban
+WGN,Urban
+WIL,Urban with rural areas
+WIN,Rural
+WKF,Urban with rural areas
+WLA,Urban with rural areas
+WLI,Rural
+WLL,Urban
+WLN,Urban with rural areas
+WLV,Urban
+WND,Urban
+WNM,Urban
+WNT,Urban with rural areas
+WOC,Urban
+WOI,Urban
+WOK,Urban
+WOT,Urban
+WOX,Rural
+WRL,Urban
+WRT,Urban
+WRX,Urban with rural areas
+WSK,Urban with rural areas
+WSM,Urban
+WYC,Rural
+WYE,Urban with rural areas
+WYR,Urban with rural areas
+YOR,Urban
+ZET,Sparse and rural
+CAM,Rural
+CMA,Rural
+DBY,Urban with rural areas
+DEV,Rural
+ESS,Urban with rural areas
+ESX,Urban with rural areas
+GLS,Urban with rural areas
+HAM,Urban with rural areas
+HRT,Urban
+KEN,Urban with rural areas
+LAN,Urban with rural areas
+LEC,Urban with rural areas
+LIN,Urban with rural areas
+NFK,Rural
+NTT,Urban with rural areas
+NYK,Rural
+OXF,Urban with rural areas
+SFK,Urban with rural areas
+SOM,Urban with rural areas
+SRY,Urban
+STS,Urban with rural areas
+WAR,Urban with rural areas
+WOR,Urban with rural areas
+WSX,Urban with rural areas
+CPCA,Urban with rural areas
+GLA,Urban
+GMCA,Urban
+LCR,Urban
+NECA,Urban with rural areas
+NTCA,Urban with rural areas
+SCR,Urban
+TVCA,Urban
+WECA,Urban
+WMCA,Urban
+WYCA,Urban

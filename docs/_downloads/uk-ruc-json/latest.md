@@ -5,6 +5,6 @@ package: uk_ruc
 title: uk_ruc_json
 filename: uk_ruc.json
 version: latest
-full_version: 1.0.1
+full_version: 1.1.0
 file: /data/uk_ruc/latest/uk_ruc.json
 ---

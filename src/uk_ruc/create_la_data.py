@@ -75,7 +75,61 @@ def add_clusters_to_la_data():
     cluster_data = pd.read_csv(Path("data", "interim", "ruc_cluster.csv"))
     df = df.merge(cluster_data, on="local-authority-code")
     df.columns = [x.lower().replace(" ", "-") for x in df.columns]
+    start_columns = ["local-authority-code", "official-name"]
+    df = df[start_columns + [x for x in df.columns if x not in start_columns]]
     df.to_csv(Path("data", "packages", "uk_ruc", "la_ruc.csv"), index=False)
+
+
+def create_con_data() -> pd.DataFrame:
+    """
+    Create a dataframe of the proportion of LSOAS in each local authority in our free RUC bands
+    """
+
+    ruc = pd.read_csv(Path("data", "packages", "uk_ruc", "composite_ruc.csv"))
+    ruc = ruc[["lsoa", "ukruc-3", "pop"]].set_index("lsoa")
+
+    # get this into the form of a sheet where the percentage of each con is urban, rural, and highly rural is a row
+
+    df = (
+        pd.read_csv(Path("data", "raw", "pcon_lsoa.csv"))
+        .rename(columns={"lsoa11": "lsoa"})
+        .drop(columns=["pcds"])
+        .set_index("lsoa")
+    )
+    df = ruc.join(df, how="outer")
+    df["ukruc-3"] = df["ukruc-3"].map({0: "Urban", 1: "Rural", 2: "Highly rural"})
+    pt = df.pivot_table("pop", index="pcon", columns=["ukruc-3"], aggfunc="sum").fillna(
+        0
+    )
+
+    pt = pt.common.row_percentages()
+    return pt
+
+
+def add_clusters_to_con_data():
+    df = create_con_data()
+    cluster_data = pd.read_csv(Path("data", "interim", "ruc_cluster_con.csv"))
+    df = df.merge(cluster_data, on="pcon")
+    df.columns = [x.lower().replace(" ", "-") for x in df.columns]
+
+    name_lookup = (
+        get_dataset_df(
+            "uk_westminster_constituency_names_and_codes",
+            "uk_westminster_constituency_names_and_codes",
+            "latest",
+            "constituencies_and_codes.csv",
+        )
+        .rename(columns={"gss-code": "pcon", "name": "constituency-name"})
+        .drop(columns=["country", "mapit-id", "parliament-id"])
+    )
+
+    df = df.merge(name_lookup, on="pcon")
+    df = df.rename(columns={"pcon": "gss-code"})
+
+    start_columns = ["gss-code", "constituency-name"]
+
+    df = df[start_columns + [x for x in df.columns if x not in start_columns]]
+    df.to_csv(Path("data", "packages", "uk_ruc", "pcon_ruc.csv"), index=False)
 
 
 def generate_la_data():
@@ -84,5 +138,11 @@ def generate_la_data():
     add_clusters_to_la_data()
 
 
+def generate_con_data():
+    run_notebook(Path("notebooks", "ruc_clustering_cons.ipynb"))
+    add_clusters_to_con_data()
+
+
 if __name__ == "__main__":
     generate_la_data()
+    generate_con_data()

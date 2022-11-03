@@ -1,11 +1,12 @@
 import rich_click as click
 from .create_unified_measure import create_composite_measure
-from .create_la_data import generate_la_data
+from .create_la_data import generate_la_data, generate_con_data
 
 
 def create_files():
     create_composite_measure()
     generate_la_data()
+    generate_con_data()
 
 
 @click.group()

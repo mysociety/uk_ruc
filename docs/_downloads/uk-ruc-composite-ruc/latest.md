@@ -5,6 +5,6 @@ package: uk_ruc
 title: composite_ruc
 filename: composite_ruc.csv
 version: latest
-full_version: 1.1.0
+full_version: 2.0.0
 file: /data/uk_ruc/latest/composite_ruc.csv
 ---

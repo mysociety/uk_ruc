@@ -42,6 +42,7 @@ custom:
     1.0.0: Existing dataset, bump to supported version
     1.0.1: keywords changed from 'None' to '['Geodata', 'United Kingdom', 'LSOA']'
     1.1.0: 'New resource(s) added: la_ruc'
+    2.0.0: Tidied LA RUC profile, and added constituency RUC profiles
 resources:
 - title: Composite Rural/Urban Classification
   description: Combined metric for all four UK nations of rural/urban classification
@@ -195,6 +196,12 @@ resources:
       constraints:
         unique: true
       example: ABC
+    - name: official-name
+      type: string
+      description: Standard name of local authority.
+      constraints:
+        unique: true
+      example: Armagh City, Banbridge and Craigavon Borough Council
     - name: highly-rural
       type: number
       description: Percentage of the population of an authority that live in a highly
@@ -228,8 +235,66 @@ resources:
         - Rural
         - Urban with rural areas
       example: Sparse and rural
-  hash: ded7311afad4dbda5e3ca15c7e110842
+  hash: 61dfdb8256f5ab57159edd6e2260f591
   download_id: uk-ruc-la-ruc
-full_version: 1.1.0
+- title: Westminster Constituency RUC Profile
+  description: Based on urban/rural classification of LSOAs, a RUC label and profile
+    for each Westminster constituency.
+  custom:
+    row_count: 650
+  path: pcon_ruc.csv
+  name: pcon_ruc
+  profile: tabular-data-resource
+  scheme: file
+  format: csv
+  hashing: md5
+  encoding: utf-8
+  schema:
+    fields:
+    - name: gss-code
+      type: string
+      description: GSS code for 2010-set Westminster Parliamentary constituencies
+      constraints:
+        unique: true
+      example: E14000530
+    - name: constituency-name
+      type: string
+      description: Name of constituency
+      constraints:
+        unique: true
+      example: Aldershot
+    - name: highly-rural
+      type: number
+      description: Percentage of population who live in highly rural LSOAs in constituency
+      constraints:
+        unique: false
+      example: 0.0
+    - name: rural
+      type: number
+      description: Percentage of population who live in rural LSOAs in constituency
+      constraints:
+        unique: false
+      example: 0.0
+    - name: urban
+      type: number
+      description: Percentage of population who live in urban LSOAs in constituency
+      constraints:
+        unique: false
+      example: 1.0
+    - name: ruc-cluster-label
+      type: string
+      description: Constituencies grouped into four clusters based on the different
+        profiles of the three figures.
+      constraints:
+        unique: false
+        enum:
+        - Urban
+        - Urban with rural areas
+        - Rural
+        - Sparse and rural
+      example: Urban
+  hash: e56f580c0cfe80e40d7ea398f1cd0d1f
+  download_id: uk-ruc-pcon-ruc
+full_version: 2.0.0
 permalink: /datasets/uk_ruc/latest
 ---

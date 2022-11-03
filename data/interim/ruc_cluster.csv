@@ -1,410 +1,410 @@
-local-authority-code,ruc-cluster-label
-ABC,Sparse and rural
-ABD,Sparse and rural
-ABE,Urban
-ADU,Urban
-AGB,Sparse and rural
-AGY,Rural
-ALL,Rural
-AMB,Urban with rural areas
-AND,Urban with rural areas
-ANN,Urban with rural areas
-ANS,Urban with rural areas
-ARU,Urban
-ASF,Urban with rural areas
-ASH,Urban
-BAB,Rural
-BAE,Urban with rural areas
-BAI,Urban
-BAN,Urban with rural areas
-BAR,Urban with rural areas
-BAS,Urban with rural areas
-BBD,Urban
-BDF,Urban with rural areas
-BDG,Urban
-BEN,Urban
-BEX,Urban
-BFS,Urban
-BGE,Urban with rural areas
-BGW,Urban
-BIR,Urban
-BLA,Urban with rural areas
-BNE,Urban
-BNH,Urban
-BNS,Urban
-BOL,Urban
-BOS,Rural
-BOT,Urban with rural areas
-BPC,Urban
-BPL,Urban
-BRA,Urban with rural areas
-BRC,Urban
-BRD,Urban
-BRE,Sparse and rural
-BRM,Urban with rural areas
-BRO,Rural
-BRT,Urban
-BRW,Urban with rural areas
-BRX,Urban
-BRY,Urban
-BST,Urban
-BUC,Urban with rural areas
-BUN,Urban
-BUR,Urban
-CAB,Urban
-CAN,Urban
-CAR,Urban with rural areas
-CAS,Urban
-CAT,Urban
-CAY,Urban with rural areas
-CBF,Urban with rural areas
-CCG,Sparse and rural
-CGN,Sparse and rural
-CHA,Urban
-CHE,Urban with rural areas
-CHI,Rural
-CHL,Urban with rural areas
-CHO,Urban with rural areas
-CHR,Urban with rural areas
-CHS,Urban
-CHT,Urban
-CHW,Urban with rural areas
-CLD,Urban
-CLK,Rural
-CMD,Urban
-CMN,Urban with rural areas
-COL,Urban with rural areas
-CON,Rural
-COP,Rural
-COT,Rural
-COV,Urban
-CRA,Rural
-CRF,Urban
-CRW,Urban
-CRY,Urban
-CWY,Urban with rural areas
-DAC,Urban
-DAL,Urban
-DAR,Urban
-DEB,Sparse and rural
-DEN,Rural
-DER,Urban
-DGY,Sparse and rural
-DNC,Urban
-DND,Urban
-DOV,Urban with rural areas
-DRS,Urban with rural areas
-DST,Urban with rural areas
-DUD,Urban
-DUR,Rural
-EAL,Urban
-EAS,Urban
-EAT,Urban
-EAY,Rural
-ECA,Rural
-EDE,Rural
-EDH,Urban
-EDN,Sparse and rural
-EDU,Urban
-EHA,Urban with rural areas
-EHE,Urban with rural areas
-ELI,Rural
-ELM,Urban
-ELN,Rural
-ELS,Sparse and rural
-ENF,Urban
-EPP,Urban with rural areas
-EPS,Urban
-ERE,Urban
-ERW,Urban
-ERY,Urban with rural areas
-ESK,Urban with rural areas
-EST,Urban with rural areas
-EXE,Urban
-FAL,Urban
-FAR,Urban
-FEN,Urban with rural areas
-FIF,Urban with rural areas
-FLN,Urban with rural areas
-FMO,Sparse and rural
-FOE,Sparse and rural
-FYL,Urban with rural areas
-GAT,Urban
-GED,Urban with rural areas
-GLG,Urban
-GLO,Urban
-GOS,Urban
-GRA,Urban with rural areas
-GRE,Urban
-GRT,Urban with rural areas
-GRY,Urban with rural areas
-GWN,Rural
-HAA,Urban
-HAE,Sparse and rural
-HAG,Urban with rural areas
-HAL,Urban
-HAO,Rural
-HAR,Urban
-HAS,Urban
-HAT,Urban with rural areas
-HAV,Urban
-HCK,Urban
-HEF,Sparse and rural
-HER,Urban
-HIG,Urban with rural areas
-HIL,Urban
-HIN,Urban with rural areas
-HLD,Sparse and rural
-HMF,Urban
-HNS,Urban
-HOR,Rural
-HPL,Urban
-HRW,Urban
-HRY,Urban
-HUN,Rural
-HYN,Urban
-IOS,Sparse and rural
-IOW,Urban with rural areas
-IPS,Urban
-ISL,Urban
-IVC,Urban
-KEC,Urban
-KHL,Urban
-KIN,Sparse and rural
-KIR,Urban
-KTT,Urban
-KWL,Urban
-LAC,Urban with rural areas
-LBC,Urban with rural areas
-LBH,Urban
-LCE,Urban
-LDS,Urban
-LEE,Urban with rural areas
-LEW,Urban
-LIC,Urban
-LIF,Urban with rural areas
-LIV,Urban
-LND,Urban
-LUT,Urban
-MAI,Urban with rural areas
-MAL,Rural
-MAN,Urban
-MAS,Urban
-MAV,Sparse and rural
-MDB,Urban
-MDE,Rural
-MDW,Urban
-MEA,Urban with rural areas
-MEL,Urban with rural areas
-MEN,Urban with rural areas
-MIK,Urban
-MLN,Urban with rural areas
-MOL,Urban with rural areas
-MON,Urban with rural areas
-MRT,Urban
-MRY,Sparse and rural
-MSS,Urban
-MSU,Sparse and rural
-MTY,Urban
-MUL,Sparse and rural
-NAY,Urban with rural areas
-NBL,Rural
-NDE,Rural
-NEA,Rural
-NEC,Urban with rural areas
-NED,Urban
-NEL,Urban
-NET,Urban
-NEW,Urban with rural areas
-NGM,Urban
-NHE,Urban
-NKE,Rural
-NLK,Urban
-NLN,Urban with rural areas
-NMD,Sparse and rural
-NNO,Sparse and rural
-NNT,Urban with rural areas
-NOW,Urban
-NSM,Urban
-NTL,Urban with rural areas
-NTY,Urban
-NUN,Urban
-NWA,Rural
-NWL,Rural
-NWM,Urban
-NWP,Urban
-OAD,Urban
-OLD,Urban
-ORK,Sparse and rural
-OXO,Urban
-PEM,Rural
-PEN,Urban
-PKN,Sparse and rural
-PLY,Urban
-POR,Urban
-POW,Sparse and rural
-PRE,Urban
-PTE,Urban
-RCC,Urban with rural areas
-RCH,Urban
-RCT,Urban with rural areas
-RDB,Urban
-RDG,Urban
-RED,Urban
-REI,Urban
-RFW,Urban
-RIB,Rural
-RIC,Urban
-RIH,Rural
-ROC,Urban
-ROH,Rural
-ROS,Urban
-ROT,Urban
-RUG,Urban with rural areas
-RUH,Urban
-RUN,Urban
-RUS,Rural
-RUT,Rural
-RYE,Sparse and rural
-SAL,Urban
-SAW,Urban
-SAY,Urban with rural areas
-SCA,Rural
-SCB,Sparse and rural
-SCE,Urban with rural areas
-SDE,Rural
-SEG,Urban with rural areas
-SEL,Rural
-SEV,Urban with rural areas
-SFT,Urban
-SGC,Urban
-SHA,Rural
-SHE,Urban with rural areas
-SHF,Urban
-SHN,Urban
-SHO,Rural
-SHR,Rural
-SKE,Urban with rural areas
-SKP,Urban
-SLA,Rural
-SLF,Urban
-SLG,Urban
-SLK,Urban with rural areas
-SND,Urban
-SNO,Rural
-SOL,Urban
-SOS,Urban
-SOX,Rural
-SPE,Urban
-SRI,Urban
-SSO,Rural
-SST,Urban with rural areas
-STA,Urban with rural areas
-STE,Urban
-STF,Urban with rural areas
-STG,Urban with rural areas
-STH,Urban
-STN,Urban
-STO,Urban with rural areas
-STR,Rural
-STT,Urban
-STV,Urban
-STY,Urban
-SUR,Urban
-SWA,Urban
-SWD,Urban
-SWK,Urban
-SWL,Urban with rural areas
-SWT,Urban with rural areas
-TAM,Urban
-TAN,Urban with rural areas
-TAW,Urban
-TEI,Rural
-TEN,Urban with rural areas
-TES,Urban with rural areas
-TEW,Urban with rural areas
-TFW,Urban
-THA,Urban
-THE,Urban
-THR,Urban
-TOB,Urban
-TOF,Urban
-TON,Urban with rural areas
-TOR,Sparse and rural
-TRF,Urban
-TUN,Urban with rural areas
-TWH,Urban
-UTT,Rural
-VAL,Urban with rural areas
-VGL,Urban with rural areas
-WAE,Urban with rural areas
-WAT,Urban
-WAW,Urban
-WBK,Urban with rural areas
-WDE,Sparse and rural
-WDU,Urban
-WEA,Urban with rural areas
-WEW,Urban
-WFT,Urban
-WGN,Urban
-WIL,Urban with rural areas
-WIN,Rural
-WKF,Urban with rural areas
-WLA,Urban with rural areas
-WLI,Rural
-WLL,Urban
-WLN,Urban with rural areas
-WLV,Urban
-WND,Urban
-WNM,Urban
-WNT,Urban with rural areas
-WOC,Urban
-WOI,Urban
-WOK,Urban
-WOT,Urban
-WOX,Rural
-WRL,Urban
-WRT,Urban
-WRX,Urban with rural areas
-WSK,Urban with rural areas
-WSM,Urban
-WYC,Rural
-WYE,Urban with rural areas
-WYR,Urban with rural areas
-YOR,Urban
-ZET,Sparse and rural
-CAM,Rural
-CMA,Rural
-DBY,Urban with rural areas
-DEV,Rural
-ESS,Urban with rural areas
-ESX,Urban with rural areas
-GLS,Urban with rural areas
-HAM,Urban with rural areas
-HRT,Urban
-KEN,Urban with rural areas
-LAN,Urban with rural areas
-LEC,Urban with rural areas
-LIN,Urban with rural areas
-NFK,Rural
-NTT,Urban with rural areas
-NYK,Rural
-OXF,Urban with rural areas
-SFK,Urban with rural areas
-SOM,Urban with rural areas
-SRY,Urban
-STS,Urban with rural areas
-WAR,Urban with rural areas
-WOR,Urban with rural areas
-WSX,Urban with rural areas
-CPCA,Urban with rural areas
-GLA,Urban
-GMCA,Urban
-LCR,Urban
-NECA,Urban with rural areas
-NTCA,Urban with rural areas
-SCR,Urban
-TVCA,Urban
-WECA,Urban
-WMCA,Urban
-WYCA,Urban
+local-authority-code,official-name,ruc-cluster-label
+ABC,"Armagh City, Banbridge and Craigavon Borough Council",Sparse and rural
+ABD,Aberdeenshire Council,Sparse and rural
+ABE,Aberdeen City Council,Urban
+ADU,Adur District Council,Urban
+AGB,Argyll and Bute Council,Sparse and rural
+AGY,Isle of Anglesey County Council,Rural
+ALL,Allerdale Borough Council,Rural
+AMB,Amber Valley Borough Council,Urban with rural areas
+AND,Ards and North Down Borough Council,Urban with rural areas
+ANN,Antrim and Newtownabbey Borough Council,Urban with rural areas
+ANS,Angus Council,Urban with rural areas
+ARU,Arun District Council,Urban
+ASF,Ashford Borough Council,Urban with rural areas
+ASH,Ashfield District Council,Urban
+BAB,Babergh District Council,Rural
+BAE,Bassetlaw District Council,Urban with rural areas
+BAI,Basildon Borough Council,Urban
+BAN,Basingstoke and Deane Borough Council,Urban with rural areas
+BAR,Barrow-in-Furness Borough Council,Urban with rural areas
+BAS,Bath and North East Somerset Council,Urban with rural areas
+BBD,Blackburn with Darwen Borough Council,Urban
+BDF,Bedford Borough Council,Urban with rural areas
+BDG,London Borough of Barking and Dagenham,Urban
+BEN,London Borough of Brent,Urban
+BEX,London Borough of Bexley,Urban
+BFS,Belfast City Council,Urban
+BGE,Bridgend County Borough Council,Urban with rural areas
+BGW,Blaenau Gwent County Borough Council,Urban
+BIR,Birmingham City Council,Urban
+BLA,Blaby District Council,Urban with rural areas
+BNE,London Borough of Barnet,Urban
+BNH,Brighton and Hove City Council,Urban
+BNS,Barnsley Metropolitan Borough Council,Urban
+BOL,Bolton Metropolitan Borough Council,Urban
+BOS,Bolsover District Council,Rural
+BOT,Boston Borough Council,Urban with rural areas
+BPC,"Bournemouth, Christchurch and Poole Council",Urban
+BPL,Blackpool Borough Council,Urban
+BRA,Braintree District Council,Urban with rural areas
+BRC,Bracknell Forest Council,Urban
+BRD,City of Bradford Metropolitan District Council,Urban
+BRE,Breckland District Council,Sparse and rural
+BRM,Bromsgrove District Council,Urban with rural areas
+BRO,Broadland District Council,Rural
+BRT,Broxtowe Borough Council,Urban
+BRW,Brentwood Borough Council,Urban with rural areas
+BRX,Broxbourne Borough Council,Urban
+BRY,London Borough of Bromley,Urban
+BST,Bristol City Council,Urban
+BUC,Buckinghamshire Council,Urban with rural areas
+BUN,Burnley Borough Council,Urban
+BUR,Bury Metropolitan Borough Council,Urban
+CAB,Cambridge City Council,Urban
+CAN,Cannock Chase District Council,Urban
+CAR,Carlisle City Council,Urban with rural areas
+CAS,Castle Point Borough Council,Urban
+CAT,Canterbury City Council,Urban
+CAY,Caerphilly County Borough Council,Urban with rural areas
+CBF,Central Bedfordshire Council,Urban with rural areas
+CCG,Causeway Coast and Glens Borough Council,Sparse and rural
+CGN,Ceredigion County Council,Sparse and rural
+CHA,Charnwood Borough Council,Urban
+CHE,Cheshire East Council,Urban with rural areas
+CHI,Chichester District Council,Rural
+CHL,Chelmsford City Council,Urban with rural areas
+CHO,Chorley Borough Council,Urban with rural areas
+CHR,Cherwell District Council,Urban with rural areas
+CHS,Chesterfield Borough Council,Urban
+CHT,Cheltenham Borough Council,Urban
+CHW,Cheshire West and Chester Council,Urban with rural areas
+CLD,Calderdale Metropolitan Borough Council,Urban
+CLK,Clackmannanshire Council,Rural
+CMD,London Borough of Camden,Urban
+CMN,Carmarthenshire County Council,Urban with rural areas
+COL,Colchester Borough Council,Urban with rural areas
+CON,Cornwall Council,Rural
+COP,Copeland Borough Council,Rural
+COT,Cotswold District Council,Rural
+COV,Coventry City Council,Urban
+CRA,Craven District Council,Rural
+CRF,City of Cardiff Council,Urban
+CRW,Crawley Borough Council,Urban
+CRY,London Borough of Croydon,Urban
+CWY,Conwy County Borough Council,Urban with rural areas
+DAC,Dacorum Borough Council,Urban
+DAL,Darlington Borough Council,Urban
+DAR,Dartford Borough Council,Urban
+DEB,Derbyshire Dales District Council,Sparse and rural
+DEN,Denbighshire County Council,Rural
+DER,Derby City Council,Urban
+DGY,Dumfries and Galloway Council,Sparse and rural
+DNC,Doncaster Metropolitan Borough Council,Urban
+DND,Dundee City Council,Urban
+DOV,Dover District Council,Urban with rural areas
+DRS,Derry City and Strabane District Council,Urban with rural areas
+DST,Dorset Council,Urban with rural areas
+DUD,Dudley Metropolitan Borough Council,Urban
+DUR,Durham County Council,Rural
+EAL,London Borough of Ealing,Urban
+EAS,Eastbourne Borough Council,Urban
+EAT,Eastleigh Borough Council,Urban
+EAY,East Ayrshire Council,Rural
+ECA,East Cambridgeshire District Council,Rural
+EDE,East Devon District Council,Rural
+EDH,City of Edinburgh Council,Urban
+EDN,Eden District Council,Sparse and rural
+EDU,East Dunbartonshire Council,Urban
+EHA,East Hampshire District Council,Urban with rural areas
+EHE,East Hertfordshire District Council,Urban with rural areas
+ELI,East Lindsey District Council,Rural
+ELM,Elmbridge Borough Council,Urban
+ELN,East Lothian Council,Rural
+ELS,Comhairle nan Eilean Siar,Sparse and rural
+ENF,London Borough of Enfield,Urban
+EPP,Epping Forest District Council,Urban with rural areas
+EPS,Epsom and Ewell Borough Council,Urban
+ERE,Erewash Borough Council,Urban
+ERW,East Renfrewshire Council,Urban
+ERY,East Riding of Yorkshire Council,Urban with rural areas
+ESK,East Suffolk Council,Urban with rural areas
+EST,East Staffordshire Borough Council,Urban with rural areas
+EXE,Exeter City Council,Urban
+FAL,Falkirk Council,Urban
+FAR,Fareham Borough Council,Urban
+FEN,Fenland District Council,Urban with rural areas
+FIF,Fife Council,Urban with rural areas
+FLN,Flintshire County Council,Urban with rural areas
+FMO,Fermanagh and Omagh District Council,Sparse and rural
+FOE,Forest of Dean District Council,Sparse and rural
+FYL,Fylde Borough Council,Urban with rural areas
+GAT,Gateshead Metropolitan Borough Council,Urban
+GED,Gedling Borough Council,Urban with rural areas
+GLG,Glasgow City Council,Urban
+GLO,Gloucester City Council,Urban
+GOS,Gosport Borough Council,Urban
+GRA,Gravesham Borough Council,Urban with rural areas
+GRE,Royal Borough of Greenwich,Urban
+GRT,Guildford Borough Council,Urban with rural areas
+GRY,Great Yarmouth Borough Council,Urban with rural areas
+GWN,Gwynedd Council,Rural
+HAA,Havant Borough Council,Urban
+HAE,Hambleton District Council,Sparse and rural
+HAG,Harrogate Borough Council,Urban with rural areas
+HAL,Halton Borough Council,Urban
+HAO,Harborough District Council,Rural
+HAR,Harlow District Council,Urban
+HAS,Hastings Borough Council,Urban
+HAT,Hart District Council,Urban with rural areas
+HAV,London Borough of Havering,Urban
+HCK,London Borough of Hackney,Urban
+HEF,Herefordshire Council,Sparse and rural
+HER,Hertsmere Borough Council,Urban
+HIG,High Peak Borough Council,Urban with rural areas
+HIL,London Borough of Hillingdon,Urban
+HIN,Hinckley and Bosworth Borough Council,Urban with rural areas
+HLD,The Highland Council,Sparse and rural
+HMF,London Borough of Hammersmith & Fulham,Urban
+HNS,London Borough of Hounslow,Urban
+HOR,Horsham District Council,Rural
+HPL,Hartlepool Borough Council,Urban
+HRW,London Borough of Harrow,Urban
+HRY,London Borough of Haringey,Urban
+HUN,Huntingdonshire District Council,Rural
+HYN,Hyndburn Borough Council,Urban
+IOS,Council of the Isles of Scilly,Sparse and rural
+IOW,Isle of Wight Council,Urban with rural areas
+IPS,Ipswich Borough Council,Urban
+ISL,London Borough of Islington,Urban
+IVC,Inverclyde Council,Urban
+KEC,Royal Borough of Kensington and Chelsea,Urban
+KHL,Hull City Council,Urban
+KIN,Borough Council of Kings Lynn and West Norfolk,Sparse and rural
+KIR,Kirklees Council,Urban
+KTT,Royal Borough of Kingston upon Thames,Urban
+KWL,Knowsley Metropolitan Borough Council,Urban
+LAC,Lancaster City Council,Urban with rural areas
+LBC,Lisburn and Castlereagh City Council,Urban with rural areas
+LBH,London Borough of Lambeth,Urban
+LCE,Leicester City Council,Urban
+LDS,Leeds City Council,Urban
+LEE,Lewes District Council,Urban with rural areas
+LEW,London Borough of Lewisham,Urban
+LIC,City of Lincoln Council,Urban
+LIF,Lichfield District Council,Urban with rural areas
+LIV,Liverpool City Council,Urban
+LND,City of London Corporation,Urban
+LUT,Luton Borough Council,Urban
+MAI,Maidstone Borough Council,Urban with rural areas
+MAL,Maldon District Council,Rural
+MAN,Manchester City Council,Urban
+MAS,Mansfield District Council,Urban
+MAV,Malvern Hills District Council,Sparse and rural
+MDB,Middlesbrough Borough Council,Urban
+MDE,Mid Devon District Council,Rural
+MDW,Medway Council,Urban
+MEA,Mid and East Antrim Borough Council,Urban with rural areas
+MEL,Melton Borough Council,Urban with rural areas
+MEN,Mendip District Council,Urban with rural areas
+MIK,Milton Keynes Council,Urban
+MLN,Midlothian Council,Urban with rural areas
+MOL,Mole Valley District Council,Urban with rural areas
+MON,Monmouthshire County Council,Urban with rural areas
+MRT,London Borough of Merton,Urban
+MRY,The Moray Council,Sparse and rural
+MSS,Mid Sussex District Council,Urban
+MSU,Mid Suffolk District Council,Sparse and rural
+MTY,Merthyr Tydfil County Borough Council,Urban
+MUL,Mid Ulster District Council,Sparse and rural
+NAY,North Ayrshire Council,Urban with rural areas
+NBL,Northumberland County Council,Rural
+NDE,North Devon District Council,Rural
+NEA,Newark and Sherwood District Council,Rural
+NEC,Newcastle-under-Lyme Borough Council,Urban with rural areas
+NED,North East Derbyshire District Council,Urban
+NEL,North East Lincolnshire Council,Urban
+NET,Newcastle City Council,Urban
+NEW,New Forest District Council,Urban with rural areas
+NGM,Nottingham City Council,Urban
+NHE,North Hertfordshire District Council,Urban
+NKE,North Kesteven District Council,Rural
+NLK,North Lanarkshire Council,Urban
+NLN,North Lincolnshire Council,Urban with rural areas
+NMD,"Newry, Mourne and Down District Council",Sparse and rural
+NNO,North Norfolk District Council,Sparse and rural
+NNT,North Northamptonshire Council,Urban with rural areas
+NOW,Norwich City Council,Urban
+NSM,North Somerset  Council,Urban
+NTL,Neath Port Talbot County Borough Council,Urban with rural areas
+NTY,North Tyneside Council,Urban
+NUN,Nuneaton and Bedworth Borough Council,Urban
+NWA,North Warwickshire Borough Council,Rural
+NWL,North West Leicestershire District Council,Rural
+NWM,London Borough of Newham,Urban
+NWP,Newport City Council,Urban
+OAD,Oadby and Wigston Borough Council,Urban
+OLD,Oldham Metropolitan Borough Council,Urban
+ORK,Orkney Islands Council,Sparse and rural
+OXO,Oxford City Council,Urban
+PEM,Pembrokeshire County Council,Rural
+PEN,Pendle Borough Council,Urban
+PKN,Perth and Kinross Council,Sparse and rural
+PLY,Plymouth City Council,Urban
+POR,Portsmouth City Council,Urban
+POW,Powys County Council,Sparse and rural
+PRE,Preston City Council,Urban
+PTE,Peterborough City Council,Urban
+RCC,Redcar and Cleveland Borough Council,Urban with rural areas
+RCH,Rochdale Metropolitan Borough Council,Urban
+RCT,Rhondda Cynon Taf County Borough Council,Urban with rural areas
+RDB,London Borough of Redbridge,Urban
+RDG,Reading Borough Council,Urban
+RED,Redditch Borough Council,Urban
+REI,Reigate and Banstead Borough Council,Urban
+RFW,Renfrewshire Council,Urban
+RIB,Ribble Valley Borough Council,Rural
+RIC,London Borough of Richmond upon Thames,Urban
+RIH,Richmondshire District Council,Rural
+ROC,Rochford District Council,Urban
+ROH,Rother District Council,Rural
+ROS,Rossendale Borough Council,Urban
+ROT,Rotherham Metropolitan Borough Council,Urban
+RUG,Rugby Borough Council,Urban with rural areas
+RUH,Rushmoor Borough Council,Urban
+RUN,Runnymede Borough Council,Urban
+RUS,Rushcliffe Borough Council,Rural
+RUT,Rutland County Council,Rural
+RYE,Ryedale District Council,Sparse and rural
+SAL,St Albans City and District Council,Urban
+SAW,Sandwell Metropolitan Borough Council,Urban
+SAY,South Ayrshire Council,Urban with rural areas
+SCA,South Cambridgeshire District Council,Rural
+SCB,Scottish Borders Council,Sparse and rural
+SCE,Scarborough Borough Council,Urban with rural areas
+SDE,South Derbyshire District Council,Rural
+SEG,Sedgemoor District Council,Urban with rural areas
+SEL,Selby District Council,Rural
+SEV,Sevenoaks District Council,Urban with rural areas
+SFT,Sefton Metropolitan Borough Council,Urban
+SGC,South Gloucestershire Council,Urban
+SHA,South Hams District Council,Rural
+SHE,Folkestone and Hythe District Council,Urban with rural areas
+SHF,Sheffield City Council,Urban
+SHN,St Helens Council,Urban
+SHO,South Holland District Council,Rural
+SHR,Shropshire Council,Rural
+SKE,South Kesteven District Council,Urban with rural areas
+SKP,Stockport Metropolitan Borough Council,Urban
+SLA,South Lakeland District Council,Rural
+SLF,Salford City Council,Urban
+SLG,Slough Borough Council,Urban
+SLK,South Lanarkshire Council,Urban with rural areas
+SND,Sunderland City Council,Urban
+SNO,South Norfolk District Council,Rural
+SOL,Solihull Metropolitan Borough Council,Urban
+SOS,Southend-on-Sea Borough Council,Urban
+SOX,South Oxfordshire District Council,Rural
+SPE,Spelthorne Borough Council,Urban
+SRI,South Ribble Borough Council,Urban
+SSO,South Somerset District Council,Rural
+SST,South Staffordshire Council,Urban with rural areas
+STA,Stafford Borough Council,Urban with rural areas
+STE,Stoke-on-Trent City Council,Urban
+STF,Staffordshire Moorlands District Council,Urban with rural areas
+STG,Stirling Council,Urban with rural areas
+STH,Southampton City Council,Urban
+STN,London Borough of Sutton,Urban
+STO,Stroud District Council,Urban with rural areas
+STR,Stratford-on-Avon District Council,Rural
+STT,Stockton-on-Tees Borough Council,Urban
+STV,Stevenage Borough Council,Urban
+STY,South Tyneside Council,Urban
+SUR,Surrey Heath Borough Council,Urban
+SWA,City and County of Swansea Council,Urban
+SWD,Swindon Borough Council,Urban
+SWK,London Borough of Southwark,Urban
+SWL,Swale Borough Council,Urban with rural areas
+SWT,Somerset West and Taunton Council,Urban with rural areas
+TAM,Tameside Metropolitan Borough Council,Urban
+TAN,Tandridge District Council,Urban with rural areas
+TAW,Tamworth Borough Council,Urban
+TEI,Teignbridge District Council,Rural
+TEN,Tendring District Council,Urban with rural areas
+TES,Test Valley Borough Council,Urban with rural areas
+TEW,Tewkesbury Borough Council,Urban with rural areas
+TFW,Telford & Wrekin Council,Urban
+THA,Thanet District Council,Urban
+THE,Three Rivers District Council,Urban
+THR,Thurrock Council,Urban
+TOB,Torbay Council,Urban
+TOF,Torfaen County Borough Council,Urban
+TON,Tonbridge and Malling Borough Council,Urban with rural areas
+TOR,Torridge District Council,Sparse and rural
+TRF,Trafford Metropolitan Borough Council,Urban
+TUN,Tunbridge Wells Borough Council,Urban with rural areas
+TWH,London Borough of Tower Hamlets,Urban
+UTT,Uttlesford District Council,Rural
+VAL,Vale of White Horse District Council,Urban with rural areas
+VGL,Vale of Glamorgan Council,Urban with rural areas
+WAE,Waverley Borough Council,Urban with rural areas
+WAT,Watford Borough Council,Urban
+WAW,Warwick District Council,Urban
+WBK,West Berkshire Council,Urban with rural areas
+WDE,West Devon Borough Council,Sparse and rural
+WDU,West Dunbartonshire Council,Urban
+WEA,Wealden District Council,Urban with rural areas
+WEW,Welwyn Hatfield Borough Council,Urban
+WFT,London Borough of Waltham Forest,Urban
+WGN,Wigan Metropolitan Borough Council,Urban
+WIL,Wiltshire Council,Urban with rural areas
+WIN,Winchester City Council,Rural
+WKF,Wakefield Metropolitan District Council,Urban with rural areas
+WLA,West Lancashire Borough Council,Urban with rural areas
+WLI,West Lindsey District Council,Rural
+WLL,Walsall Metropolitan Borough Council,Urban
+WLN,West Lothian Council,Urban with rural areas
+WLV,City of Wolverhampton Council,Urban
+WND,London Borough of Wandsworth,Urban
+WNM,Royal Borough of Windsor and Maidenhead,Urban
+WNT,West Northamptonshire Council,Urban with rural areas
+WOC,Worcester City Council,Urban
+WOI,Woking Borough Council,Urban
+WOK,Wokingham Borough Council,Urban
+WOT,Worthing Borough Council,Urban
+WOX,West Oxfordshire District Council,Rural
+WRL,Wirral Borough Council,Urban
+WRT,Warrington Borough Council,Urban
+WRX,Wrexham County Borough Council,Urban with rural areas
+WSK,West Suffolk Council,Urban with rural areas
+WSM,City of Westminster,Urban
+WYC,Wychavon District Council,Rural
+WYE,Wyre Forest District Council,Urban with rural areas
+WYR,Wyre Borough Council,Urban with rural areas
+YOR,City of York Council,Urban
+ZET,Shetland Islands Council,Sparse and rural
+CAM,Cambridgeshire County Council,Rural
+CMA,Cumbria County Council,Rural
+DBY,Derbyshire County Council,Urban with rural areas
+DEV,Devon County Council,Rural
+ESS,Essex County Council,Urban with rural areas
+ESX,East Sussex County Council,Urban with rural areas
+GLS,Gloucestershire County Council,Urban with rural areas
+HAM,Hampshire County Council,Urban with rural areas
+HRT,Hertfordshire County Council,Urban
+KEN,Kent County Council,Urban with rural areas
+LAN,Lancashire County Council,Urban with rural areas
+LEC,Leicestershire County Council,Urban with rural areas
+LIN,Lincolnshire County Council,Urban with rural areas
+NFK,Norfolk County Council,Rural
+NTT,Nottinghamshire County Council,Urban with rural areas
+NYK,North Yorkshire County Council,Rural
+OXF,Oxfordshire County Council,Urban with rural areas
+SFK,Suffolk County Council,Urban with rural areas
+SOM,Somerset County Council,Urban with rural areas
+SRY,Surrey County Council,Urban
+STS,Staffordshire County Council,Urban with rural areas
+WAR,Warwickshire County Council,Urban with rural areas
+WOR,Worcestershire County Council,Urban with rural areas
+WSX,West Sussex County Council,Urban with rural areas
+CPCA,Cambridgeshire and Peterborough Combined Authority,Urban with rural areas
+GLA,Greater London Authority,Urban
+GMCA,Greater Manchester Combined Authority,Urban
+LCR,Liverpool City Region,Urban
+NECA,North East Combined Authority,Urban with rural areas
+NTCA,North of Tyne Combined Authority,Urban with rural areas
+SCR,South Yorkshire Mayoral Combined Authority,Urban
+TVCA,Tees Valley Combined Authority,Urban
+WECA,West of England Combined Authority,Urban
+WMCA,West Midlands Combined Authority,Urban
+WYCA,West Yorkshire Combined Authority,Urban

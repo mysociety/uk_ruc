@@ -17,6 +17,12 @@ schema:
     constraints:
       unique: true
     example: ABC
+  - name: official-name
+    type: string
+    description: Standard name of local authority.
+    constraints:
+      unique: true
+    example: Armagh City, Banbridge and Craigavon Borough Council
   - name: highly-rural
     type: number
     description: Percentage of the population of an authority that live in a highly
@@ -50,4 +56,4 @@ schema:
       - Rural
       - Urban with rural areas
     example: Sparse and rural
-hash: ded7311afad4dbda5e3ca15c7e110842
+hash: 61dfdb8256f5ab57159edd6e2260f591

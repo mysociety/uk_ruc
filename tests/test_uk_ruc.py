@@ -9,7 +9,7 @@ package_dir = Path(__file__).parent.parent / "data" / "packages" / "uk_ruc"
 
 def test_enough_las():
     df = pd.read_csv(package_dir / "la_ruc.csv")
-    assert len(df) == 409
+    assert len(df) == 393
 
 
 def test_enough_cons():

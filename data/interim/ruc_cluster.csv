@@ -5,7 +5,6 @@ ABE,Aberdeen City Council,Urban
 ADU,Adur District Council,Urban
 AGB,Argyll and Bute Council,Sparse and rural
 AGY,Isle of Anglesey County Council,Rural
-ALL,Allerdale Borough Council,Rural
 AMB,Amber Valley Borough Council,Urban with rural areas
 AND,Ards and North Down Borough Council,Urban with rural areas
 ANN,Antrim and Newtownabbey Borough Council,Urban with rural areas
@@ -17,7 +16,6 @@ BAB,Babergh District Council,Rural
 BAE,Bassetlaw District Council,Urban with rural areas
 BAI,Basildon Borough Council,Urban
 BAN,Basingstoke and Deane Borough Council,Urban with rural areas
-BAR,Barrow-in-Furness Borough Council,Urban with rural areas
 BAS,Bath and North East Somerset Council,Urban with rural areas
 BBD,Blackburn with Darwen Borough Council,Urban
 BDF,Bedford Borough Council,Urban with rural areas
@@ -40,7 +38,7 @@ BPL,Blackpool Borough Council,Urban
 BRA,Braintree District Council,Urban with rural areas
 BRC,Bracknell Forest Council,Urban
 BRD,City of Bradford Metropolitan District Council,Urban
-BRE,Breckland District Council,Sparse and rural
+BRE,Breckland District Council,Rural
 BRM,Bromsgrove District Council,Urban with rural areas
 BRO,Broadland District Council,Rural
 BRT,Broxtowe Borough Council,Urban
@@ -53,10 +51,10 @@ BUN,Burnley Borough Council,Urban
 BUR,Bury Metropolitan Borough Council,Urban
 CAB,Cambridge City Council,Urban
 CAN,Cannock Chase District Council,Urban
-CAR,Carlisle City Council,Urban with rural areas
 CAS,Castle Point Borough Council,Urban
 CAT,Canterbury City Council,Urban
 CAY,Caerphilly County Borough Council,Urban with rural areas
+CBD,Cumberland Council,Rural
 CBF,Central Bedfordshire Council,Urban with rural areas
 CCG,Causeway Coast and Glens Borough Council,Sparse and rural
 CGN,Ceredigion County Council,Sparse and rural
@@ -72,13 +70,11 @@ CHW,Cheshire West and Chester Council,Urban with rural areas
 CLD,Calderdale Metropolitan Borough Council,Urban
 CLK,Clackmannanshire Council,Rural
 CMD,London Borough of Camden,Urban
-CMN,Carmarthenshire County Council,Urban with rural areas
+CMN,Carmarthenshire County Council,Rural
 COL,Colchester Borough Council,Urban with rural areas
 CON,Cornwall Council,Rural
-COP,Copeland Borough Council,Rural
 COT,Cotswold District Council,Rural
 COV,Coventry City Council,Urban
-CRA,Craven District Council,Rural
 CRF,City of Cardiff Council,Urban
 CRW,Crawley Borough Council,Urban
 CRY,London Borough of Croydon,Urban
@@ -104,7 +100,6 @@ EAY,East Ayrshire Council,Rural
 ECA,East Cambridgeshire District Council,Rural
 EDE,East Devon District Council,Rural
 EDH,City of Edinburgh Council,Urban
-EDN,Eden District Council,Sparse and rural
 EDU,East Dunbartonshire Council,Urban
 EHA,East Hampshire District Council,Urban with rural areas
 EHE,East Hertfordshire District Council,Urban with rural areas
@@ -140,8 +135,6 @@ GRT,Guildford Borough Council,Urban with rural areas
 GRY,Great Yarmouth Borough Council,Urban with rural areas
 GWN,Gwynedd Council,Rural
 HAA,Havant Borough Council,Urban
-HAE,Hambleton District Council,Sparse and rural
-HAG,Harrogate Borough Council,Urban with rural areas
 HAL,Halton Borough Council,Urban
 HAO,Harborough District Council,Rural
 HAR,Harlow District Council,Urban
@@ -196,7 +189,6 @@ MDE,Mid Devon District Council,Rural
 MDW,Medway Council,Urban
 MEA,Mid and East Antrim Borough Council,Urban with rural areas
 MEL,Melton Borough Council,Urban with rural areas
-MEN,Mendip District Council,Urban with rural areas
 MIK,Milton Keynes Council,Urban
 MLN,Midlothian Council,Urban with rural areas
 MOL,Mole Valley District Council,Urban with rural areas
@@ -220,7 +212,7 @@ NGM,Nottingham City Council,Urban
 NHE,North Hertfordshire District Council,Urban
 NKE,North Kesteven District Council,Rural
 NLK,North Lanarkshire Council,Urban
-NLN,North Lincolnshire Council,Urban with rural areas
+NLN,North Lincolnshire Council,Rural
 NMD,"Newry, Mourne and Down District Council",Sparse and rural
 NNO,North Norfolk District Council,Sparse and rural
 NNT,North Northamptonshire Council,Urban with rural areas
@@ -233,6 +225,7 @@ NWA,North Warwickshire Borough Council,Rural
 NWL,North West Leicestershire District Council,Rural
 NWM,London Borough of Newham,Urban
 NWP,Newport City Council,Urban
+NYE,North Yorkshire Council,Rural
 OAD,Oadby and Wigston Borough Council,Urban
 OLD,Oldham Metropolitan Borough Council,Urban
 ORK,Orkney Islands Council,Sparse and rural
@@ -255,7 +248,6 @@ REI,Reigate and Banstead Borough Council,Urban
 RFW,Renfrewshire Council,Urban
 RIB,Ribble Valley Borough Council,Rural
 RIC,London Borough of Richmond upon Thames,Urban
-RIH,Richmondshire District Council,Rural
 ROC,Rochford District Council,Urban
 ROH,Rother District Council,Rural
 ROS,Rossendale Borough Council,Urban
@@ -265,16 +257,12 @@ RUH,Rushmoor Borough Council,Urban
 RUN,Runnymede Borough Council,Urban
 RUS,Rushcliffe Borough Council,Rural
 RUT,Rutland County Council,Rural
-RYE,Ryedale District Council,Sparse and rural
 SAL,St Albans City and District Council,Urban
 SAW,Sandwell Metropolitan Borough Council,Urban
 SAY,South Ayrshire Council,Urban with rural areas
 SCA,South Cambridgeshire District Council,Rural
 SCB,Scottish Borders Council,Sparse and rural
-SCE,Scarborough Borough Council,Urban with rural areas
 SDE,South Derbyshire District Council,Rural
-SEG,Sedgemoor District Council,Urban with rural areas
-SEL,Selby District Council,Rural
 SEV,Sevenoaks District Council,Urban with rural areas
 SFT,Sefton Metropolitan Borough Council,Urban
 SGC,South Gloucestershire Council,Urban
@@ -286,10 +274,10 @@ SHO,South Holland District Council,Rural
 SHR,Shropshire Council,Rural
 SKE,South Kesteven District Council,Urban with rural areas
 SKP,Stockport Metropolitan Borough Council,Urban
-SLA,South Lakeland District Council,Rural
 SLF,Salford City Council,Urban
 SLG,Slough Borough Council,Urban
 SLK,South Lanarkshire Council,Urban with rural areas
+SMT,Somerset Council,Urban with rural areas
 SND,Sunderland City Council,Urban
 SNO,South Norfolk District Council,Rural
 SOL,Solihull Metropolitan Borough Council,Urban
@@ -297,7 +285,6 @@ SOS,Southend-on-Sea Borough Council,Urban
 SOX,South Oxfordshire District Council,Rural
 SPE,Spelthorne Borough Council,Urban
 SRI,South Ribble Borough Council,Urban
-SSO,South Somerset District Council,Rural
 SST,South Staffordshire Council,Urban with rural areas
 STA,Stafford Borough Council,Urban with rural areas
 STE,Stoke-on-Trent City Council,Urban
@@ -315,7 +302,6 @@ SWA,City and County of Swansea Council,Urban
 SWD,Swindon Borough Council,Urban
 SWK,London Borough of Southwark,Urban
 SWL,Swale Borough Council,Urban with rural areas
-SWT,Somerset West and Taunton Council,Urban with rural areas
 TAM,Tameside Metropolitan Borough Council,Urban
 TAN,Tandridge District Council,Urban with rural areas
 TAW,Tamworth Borough Council,Urban
@@ -338,6 +324,7 @@ UTT,Uttlesford District Council,Rural
 VAL,Vale of White Horse District Council,Urban with rural areas
 VGL,Vale of Glamorgan Council,Urban with rural areas
 WAE,Waverley Borough Council,Urban with rural areas
+WAF,Westmorland and Furness Council,Rural
 WAT,Watford Borough Council,Urban
 WAW,Warwick District Council,Urban
 WBK,West Berkshire Council,Urban with rural areas
@@ -374,7 +361,6 @@ WYR,Wyre Borough Council,Urban with rural areas
 YOR,City of York Council,Urban
 ZET,Shetland Islands Council,Sparse and rural
 CAM,Cambridgeshire County Council,Rural
-CMA,Cumbria County Council,Rural
 DBY,Derbyshire County Council,Urban with rural areas
 DEV,Devon County Council,Rural
 ESS,Essex County Council,Urban with rural areas
@@ -388,10 +374,8 @@ LEC,Leicestershire County Council,Urban with rural areas
 LIN,Lincolnshire County Council,Urban with rural areas
 NFK,Norfolk County Council,Rural
 NTT,Nottinghamshire County Council,Urban with rural areas
-NYK,North Yorkshire County Council,Rural
 OXF,Oxfordshire County Council,Urban with rural areas
 SFK,Suffolk County Council,Urban with rural areas
-SOM,Somerset County Council,Urban with rural areas
 SRY,Surrey County Council,Urban
 STS,Staffordshire County Council,Urban with rural areas
 WAR,Warwickshire County Council,Urban with rural areas

@@ -1,7 +1,7 @@
 title: Local Authority RUC Profile
 description: Based on LSOA information, a RUC label and profile for each local authority.
 custom:
-  row_count: 409
+  row_count: 393
 path: la_ruc.csv
 name: la_ruc
 profile: tabular-data-resource
@@ -22,28 +22,28 @@ schema:
     description: Standard name of local authority.
     constraints:
       unique: true
-    example: Armagh City, Banbridge and Craigavon Borough Council
+    example: Aberdeen City Council
   - name: highly-rural
     type: number
     description: Percentage of the population of an authority that live in a highly
       rural LSOA
     constraints:
       unique: false
-    example: 0.4074929648452265
+    example: 0.0
   - name: rural
     type: number
     description: Percentage of the population of an authority that live in a rural
       LSOA
     constraints:
       unique: false
-    example: 0.1025615896883064
+    example: 0.0
   - name: urban
     type: number
     description: Percentage of the population of an authority that live in an urban
       LSOA
     constraints:
       unique: false
-    example: 0.4899454454664669
+    example: 0.0
   - name: ruc-cluster-label
     type: string
     description: Local authorities grouped into four clusters based on the different
@@ -55,5 +55,5 @@ schema:
       - Urban
       - Rural
       - Urban with rural areas
-    example: Sparse and rural
-hash: 61dfdb8256f5ab57159edd6e2260f591
+    example: Rural
+hash: 8130f4fc8a86e583f6393ade36006d61

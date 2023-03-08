@@ -3,15 +3,32 @@ from pathlib import Path
 from data_common.dataset import get_dataset_df
 from data_common.pandas.df_extensions import la, common
 from data_common.management.run_notebook import run_notebook
+from datetime import date
+
+# get the current pictuer of councils on this date
+council_date = date(2023, 4, 2)
 
 
-def get_lsoa_data():
-    return get_dataset_df(
+def get_lsoa_data() -> pd.DataFrame:
+    lsoa_lookup = get_dataset_df(
         "uk_local_authority_names_and_codes",
         "uk_la_past_current",
-        "1",
+        "latest",
         "lookup_lsoa_to_registry.csv",
     )
+
+    # map of old to new
+    la_df = la.get_la_df(include_historical=True, as_of_date=council_date)
+    # just where there is a replaced-by
+    la_df = la_df[la_df["replaced-by"].notnull()]
+    # map of old to replaced code
+    old_to_new_lookup = la_df.set_index("local-authority-code")["replaced-by"].to_dict()
+
+    # update the lsoa mapping with any changes
+    lsoa_lookup["local-authority-code"] = lsoa_lookup["local-authority-code"].apply(
+        lambda x: old_to_new_lookup.get(x, x)
+    )
+    return lsoa_lookup
 
 
 def get_la_with_leagues() -> pd.DataFrame:
@@ -34,7 +51,7 @@ def get_la_with_leagues() -> pd.DataFrame:
     league_map["Combined authority"] = "Combined/strategic authorities"
     league_map["Strategic Regional Authority"] = "Combined/strategic authorities"
 
-    df = la.get_la_df()
+    df = la.get_la_df(as_of_date=council_date)
     df["league-group"] = df["local-authority-type-name"].apply(
         lambda x: league_map.get(x, x)
     )
@@ -61,7 +78,7 @@ def create_la_data():
     # add higher levels
     hpt = (
         pt.reset_index()
-        .la.to_multiple_higher(aggfunc="sum")
+        .la.to_multiple_higher(aggfunc="sum", as_of_date=council_date)
         .set_index("local-authority-code")
     )
     pt = pd.concat([pt, hpt])

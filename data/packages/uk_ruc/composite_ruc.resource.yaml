@@ -18,7 +18,7 @@ schema:
       Datazone for Scotland, SOA for Northern Ireland
     constraints:
       unique: true
-    example: E01032773
+    example: 95AA01S1
   - name: ukruc-2
     type: integer
     description: 'Two fold scale: 0-Urban/1-Rural'
@@ -54,19 +54,19 @@ schema:
     description: Population of small area
     constraints:
       unique: false
-    example: 3607
+    example: 0
   - name: area
     type: number
     description: KM square area of small area
     constraints:
       unique: true
-    example: 0.0328728811980721
+    example: 0.0093672684965119
   - name: density
     type: number
     description: Population density in people per km
     constraints:
       unique: false
-    example: 109725.70302756244
+    example: 0.0
   - name: density_pop_decile
     type: integer
     description: Small areas divided into 10 deciles by population density. Each decile

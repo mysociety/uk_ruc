@@ -3,7 +3,7 @@ title: UK Rural Urban Classification
 description: Unified rural/urban classification for whole UK
 
 baseurl: "/uk_ruc"
-url: "https://mysociety.github.io"
+url: "https://pages.mysociety.org"
 
 collections:
   versionlists:

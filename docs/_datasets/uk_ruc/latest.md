@@ -43,6 +43,8 @@ custom:
     1.0.1: keywords changed from 'None' to '['Geodata', 'United Kingdom', 'LSOA']'
     1.1.0: 'New resource(s) added: la_ruc'
     2.0.0: Tidied LA RUC profile, and added constituency RUC profiles
+    2.1.0-futurecouncils: ''
+    2.1.0: Release 2023 council data
   formats:
     csv: true
     parquet: true
@@ -67,7 +69,7 @@ resources:
         Datazone for Scotland, SOA for Northern Ireland
       constraints:
         unique: true
-      example: E01032773
+      example: 95AA01S1
     - name: ukruc-2
       type: integer
       description: 'Two fold scale: 0-Urban/1-Rural'
@@ -103,19 +105,19 @@ resources:
       description: Population of small area
       constraints:
         unique: false
-      example: 3607
+      example: 0
     - name: area
       type: number
       description: KM square area of small area
       constraints:
         unique: true
-      example: 0.0328728811980721
+      example: 0.0093672684965119
     - name: density
       type: number
       description: Population density in people per km
       constraints:
         unique: false
-      example: 109725.70302756244
+      example: 0.0
     - name: density_pop_decile
       type: integer
       description: Small areas divided into 10 deciles by population density. Each
@@ -182,7 +184,7 @@ resources:
 - title: Local Authority RUC Profile
   description: Based on LSOA information, a RUC label and profile for each local authority.
   custom:
-    row_count: 409
+    row_count: 393
   path: la_ruc.csv
   name: la_ruc
   profile: tabular-data-resource
@@ -203,28 +205,28 @@ resources:
       description: Standard name of local authority.
       constraints:
         unique: true
-      example: Armagh City, Banbridge and Craigavon Borough Council
+      example: Aberdeen City Council
     - name: highly-rural
       type: number
       description: Percentage of the population of an authority that live in a highly
         rural LSOA
       constraints:
         unique: false
-      example: 0.4074929648452265
+      example: 0.0
     - name: rural
       type: number
       description: Percentage of the population of an authority that live in a rural
         LSOA
       constraints:
         unique: false
-      example: 0.1025615896883064
+      example: 0.0
     - name: urban
       type: number
       description: Percentage of the population of an authority that live in an urban
         LSOA
       constraints:
         unique: false
-      example: 0.4899454454664669
+      example: 0.0
     - name: ruc-cluster-label
       type: string
       description: Local authorities grouped into four clusters based on the different
@@ -236,8 +238,8 @@ resources:
         - Urban
         - Rural
         - Urban with rural areas
-      example: Sparse and rural
-  hash: 61dfdb8256f5ab57159edd6e2260f591
+      example: Rural
+  hash: 8130f4fc8a86e583f6393ade36006d61
 - title: Westminster Constituency RUC Profile
   description: Based on urban/rural classification of LSOAs, a RUC label and profile
     for each Westminster constituency.
@@ -263,7 +265,7 @@ resources:
       description: Name of constituency
       constraints:
         unique: true
-      example: Aldershot
+      example: Aberavon
     - name: highly-rural
       type: number
       description: Percentage of population who live in highly rural LSOAs in constituency
@@ -281,7 +283,7 @@ resources:
       description: Percentage of population who live in urban LSOAs in constituency
       constraints:
         unique: false
-      example: 1.0
+      example: 0.0
     - name: ruc-cluster-label
       type: string
       description: Constituencies grouped into four clusters based on the different
@@ -293,8 +295,8 @@ resources:
         - Urban with rural areas
         - Rural
         - Sparse and rural
-      example: Urban
+      example: Rural
   hash: e56f580c0cfe80e40d7ea398f1cd0d1f
-full_version: 2.0.0
+full_version: 2.1.0
 permalink: /datasets/uk_ruc/latest
 ---

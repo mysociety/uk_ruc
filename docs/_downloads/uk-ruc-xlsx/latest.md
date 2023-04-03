@@ -5,6 +5,6 @@ package: uk_ruc
 title: uk_ruc_xlsx
 filename: uk_ruc.xlsx
 version: latest
-full_version: 2.0.0
+full_version: 2.1.0
 file: /data/uk_ruc/latest/uk_ruc.xlsx
 ---

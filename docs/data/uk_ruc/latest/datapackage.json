@@ -2,7 +2,7 @@
     "name": "uk_ruc",
     "title": "UK Composite Urban Rural Classification (RUC)",
     "description": "UK-wide dataset of the urban/rural nature of small-areas (LSOA/DZ/SOAs)\n",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "keywords": [
         "Geodata",
         "United Kingdom",
@@ -55,7 +55,9 @@
             "1.0.0": "Existing dataset, bump to supported version",
             "1.0.1": "keywords changed from 'None' to '['Geodata', 'United Kingdom', 'LSOA']'",
             "1.1.0": "New resource(s) added: la_ruc",
-            "2.0.0": "Tidied LA RUC profile, and added constituency RUC profiles"
+            "2.0.0": "Tidied LA RUC profile, and added constituency RUC profiles",
+            "2.1.0-futurecouncils": "",
+            "2.1.0": "Release 2023 council data"
         }
     },
     "resources": [
@@ -81,7 +83,7 @@
                         "constraints": {
                             "unique": true
                         },
-                        "example": "E01032773"
+                        "example": "95AA01S1"
                     },
                     {
                         "name": "ukruc-2",
@@ -132,7 +134,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": 3607
+                        "example": 0
                     },
                     {
                         "name": "area",
@@ -141,7 +143,7 @@
                         "constraints": {
                             "unique": true
                         },
-                        "example": 0.0328728811980721
+                        "example": 0.0093672684965119
                     },
                     {
                         "name": "density",
@@ -150,7 +152,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": 109725.70302756244
+                        "example": 0.0
                     },
                     {
                         "name": "density_pop_decile",
@@ -234,7 +236,7 @@
             "title": "Local Authority RUC Profile",
             "description": "Based on LSOA information, a RUC label and profile for each local authority.",
             "custom": {
-                "row_count": 409
+                "row_count": 393
             },
             "path": "la_ruc.csv",
             "name": "la_ruc",
@@ -261,7 +263,7 @@
                         "constraints": {
                             "unique": true
                         },
-                        "example": "Armagh City, Banbridge and Craigavon Borough Council"
+                        "example": "Aberdeen City Council"
                     },
                     {
                         "name": "highly-rural",
@@ -270,7 +272,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": 0.4074929648452265
+                        "example": 0.0
                     },
                     {
                         "name": "rural",
@@ -279,7 +281,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": 0.1025615896883064
+                        "example": 0.0
                     },
                     {
                         "name": "urban",
@@ -288,7 +290,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": 0.4899454454664669
+                        "example": 0.0
                     },
                     {
                         "name": "ruc-cluster-label",
@@ -303,11 +305,11 @@
                                 "Urban with rural areas"
                             ]
                         },
-                        "example": "Sparse and rural"
+                        "example": "Rural"
                     }
                 ]
             },
-            "hash": "61dfdb8256f5ab57159edd6e2260f591"
+            "hash": "8130f4fc8a86e583f6393ade36006d61"
         },
         {
             "title": "Westminster Constituency RUC Profile",
@@ -340,7 +342,7 @@
                         "constraints": {
                             "unique": true
                         },
-                        "example": "Aldershot"
+                        "example": "Aberavon"
                     },
                     {
                         "name": "highly-rural",
@@ -367,7 +369,7 @@
                         "constraints": {
                             "unique": false
                         },
-                        "example": 1.0
+                        "example": 0.0
                     },
                     {
                         "name": "ruc-cluster-label",
@@ -382,7 +384,7 @@
                                 "Sparse and rural"
                             ]
                         },
-                        "example": "Urban"
+                        "example": "Rural"
                     }
                 ]
             },

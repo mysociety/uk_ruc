@@ -23,7 +23,7 @@ E14000550,Urban with rural areas
 E14000551,Urban
 E14000552,Urban
 E14000553,Urban
-E14000554,Sparse and rural
+E14000554,Rural
 E14000555,Urban
 E14000556,Rural
 E14000557,Rural
@@ -72,7 +72,7 @@ E14000599,Urban
 E14000600,Urban
 E14000601,Urban
 E14000602,Urban
-E14000603,Sparse and rural
+E14000603,Rural
 E14000604,Urban
 E14000605,Urban with rural areas
 E14000606,Urban
@@ -85,7 +85,7 @@ E14000612,Urban
 E14000613,Urban with rural areas
 E14000614,Urban with rural areas
 E14000615,Urban
-E14000616,Rural
+E14000616,Urban with rural areas
 E14000617,Urban
 E14000618,Urban
 E14000619,Urban with rural areas
@@ -134,7 +134,7 @@ E14000661,Urban
 E14000662,Urban
 E14000663,Urban
 E14000664,Sparse and rural
-E14000665,Sparse and rural
+E14000665,Rural
 E14000666,Urban with rural areas
 E14000667,Urban with rural areas
 E14000668,Urban
@@ -149,7 +149,7 @@ E14000676,Urban
 E14000677,Urban with rural areas
 E14000678,Urban with rural areas
 E14000679,Urban
-E14000680,Rural
+E14000680,Urban with rural areas
 E14000681,Urban with rural areas
 E14000682,Urban
 E14000683,Rural
@@ -173,7 +173,7 @@ E14000700,Urban with rural areas
 E14000701,Urban
 E14000702,Urban
 E14000703,Urban
-E14000704,Rural
+E14000704,Urban with rural areas
 E14000705,Sparse and rural
 E14000706,Urban with rural areas
 E14000707,Sparse and rural
@@ -280,14 +280,14 @@ E14000807,Urban
 E14000808,Urban
 E14000809,Urban
 E14000810,Urban
-E14000811,Rural
+E14000811,Urban with rural areas
 E14000812,Urban with rural areas
 E14000813,Rural
 E14000814,Urban
 E14000815,Urban with rural areas
 E14000816,Sparse and rural
 E14000817,Urban
-E14000818,Rural
+E14000818,Urban with rural areas
 E14000819,Urban
 E14000820,Urban with rural areas
 E14000821,Urban
@@ -303,7 +303,7 @@ E14000830,Urban with rural areas
 E14000831,Urban
 E14000832,Urban
 E14000833,Urban
-E14000834,Urban with rural areas
+E14000834,Urban
 E14000835,Urban with rural areas
 E14000836,Urban
 E14000837,Sparse and rural
@@ -313,7 +313,7 @@ E14000840,Urban with rural areas
 E14000841,Rural
 E14000842,Urban with rural areas
 E14000843,Urban
-E14000844,Rural
+E14000844,Urban with rural areas
 E14000845,Urban with rural areas
 E14000846,Urban with rural areas
 E14000847,Sparse and rural
@@ -379,7 +379,7 @@ E14000906,Urban
 E14000907,Urban
 E14000908,Rural
 E14000909,Sparse and rural
-E14000910,Sparse and rural
+E14000910,Rural
 E14000911,Urban
 E14000912,Urban with rural areas
 E14000913,Urban with rural areas
@@ -407,7 +407,7 @@ E14000934,Rural
 E14000935,Rural
 E14000936,Urban with rural areas
 E14000937,Rural
-E14000938,Sparse and rural
+E14000938,Rural
 E14000939,Rural
 E14000940,Rural
 E14000941,Sparse and rural
@@ -420,7 +420,7 @@ E14000947,Urban
 E14000948,Urban with rural areas
 E14000949,Urban
 E14000950,Urban with rural areas
-E14000951,Urban with rural areas
+E14000951,Urban
 E14000952,Sparse and rural
 E14000953,Urban with rural areas
 E14000954,Urban with rural areas
@@ -446,7 +446,7 @@ E14000973,Urban
 E14000974,Urban
 E14000975,Rural
 E14000976,Urban
-E14000977,Sparse and rural
+E14000977,Rural
 E14000978,Urban
 E14000979,Urban
 E14000980,Urban with rural areas
@@ -460,7 +460,7 @@ E14000987,Urban with rural areas
 E14000988,Urban with rural areas
 E14000989,Urban
 E14000990,Urban with rural areas
-E14000991,Sparse and rural
+E14000991,Rural
 E14000992,Urban with rural areas
 E14000993,Sparse and rural
 E14000994,Urban with rural areas
@@ -529,7 +529,7 @@ E14001056,Urban
 E14001057,Urban with rural areas
 E14001058,Urban with rural areas
 E14001059,Urban
-E14001060,Rural
+E14001060,Urban with rural areas
 E14001061,Urban
 E14001062,Urban with rural areas
 N06000001,Urban
@@ -539,13 +539,13 @@ N06000004,Urban
 N06000005,Urban with rural areas
 N06000006,Sparse and rural
 N06000007,Sparse and rural
-N06000008,Urban with rural areas
+N06000008,Urban
 N06000009,Rural
 N06000010,Sparse and rural
 N06000011,Sparse and rural
 N06000012,Sparse and rural
 N06000013,Urban with rural areas
-N06000014,Rural
+N06000014,Sparse and rural
 N06000015,Sparse and rural
 N06000016,Sparse and rural
 N06000017,Urban with rural areas
@@ -562,7 +562,7 @@ S14000009,Sparse and rural
 S14000010,Urban
 S14000011,Urban with rural areas
 S14000012,Urban with rural areas
-S14000013,Rural
+S14000013,Sparse and rural
 S14000014,Sparse and rural
 S14000015,Urban
 S14000016,Urban
@@ -585,7 +585,7 @@ S14000032,Urban
 S14000033,Urban
 S14000034,Urban
 S14000035,Urban
-S14000036,Urban with rural areas
+S14000036,Urban
 S14000037,Urban with rural areas
 S14000038,Urban with rural areas
 S14000039,Urban with rural areas
@@ -597,7 +597,7 @@ S14000044,Urban with rural areas
 S14000045,Urban with rural areas
 S14000046,Sparse and rural
 S14000047,Urban
-S14000048,Rural
+S14000048,Urban with rural areas
 S14000049,Sparse and rural
 S14000050,Sparse and rural
 S14000051,Sparse and rural

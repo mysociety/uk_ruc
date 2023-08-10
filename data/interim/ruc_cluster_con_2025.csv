@@ -1,0 +1,651 @@
+PARL25,ruc-cluster-label
+UKPARL.2025.AAD,Urban with rural areas
+UKPARL.2025.AAG,Rural
+UKPARL.2025.AAS,Urban with rural areas
+UKPARL.2025.ABF,Urban with rural areas
+UKPARL.2025.ABH,Urban
+UKPARL.2025.ABL,Sparse and rural
+UKPARL.2025.ABM,Sparse and rural
+UKPARL.2025.ABN,Urban
+UKPARL.2025.ABS,Urban
+UKPARL.2025.ABV,Urban with rural areas
+UKPARL.2025.ACC,Rural
+UKPARL.2025.AFM,Urban with rural areas
+UKPARL.2025.AHT,Urban
+UKPARL.2025.APG,Sparse and rural
+UKPARL.2025.ASD,Sparse and rural
+UKPARL.2025.ASF,Urban
+UKPARL.2025.ASH,Urban with rural areas
+UKPARL.2025.ASW,Urban
+UKPARL.2025.AUL,Urban
+UKPARL.2025.AYS,Urban with rural areas
+UKPARL.2025.BAA,Urban with rural areas
+UKPARL.2025.BAB,Urban
+UKPARL.2025.BAC,Urban with rural areas
+UKPARL.2025.BAF,Sparse and rural
+UKPARL.2025.BAI,Urban
+UKPARL.2025.BAL,Urban with rural areas
+UKPARL.2025.BAN,Rural
+UKPARL.2025.BAO,Rural
+UKPARL.2025.BAP,Urban
+UKPARL.2025.BAS,Urban with rural areas
+UKPARL.2025.BAT,Urban
+UKPARL.2025.BAU,Urban with rural areas
+UKPARL.2025.BBH,Urban
+UKPARL.2025.BBN,Urban
+UKPARL.2025.BCF,Urban with rural areas
+UKPARL.2025.BDE,Urban
+UKPARL.2025.BDS,Urban
+UKPARL.2025.BDW,Urban
+UKPARL.2025.BEA,Urban
+UKPARL.2025.BEB,Urban
+UKPARL.2025.BED,Urban
+UKPARL.2025.BER,Urban
+UKPARL.2025.BES,Urban with rural areas
+UKPARL.2025.BEV,Rural
+UKPARL.2025.BEX,Rural
+UKPARL.2025.BGA,Rural
+UKPARL.2025.BGN,Urban with rural areas
+UKPARL.2025.BGR,Urban with rural areas
+UKPARL.2025.BGS,Urban
+UKPARL.2025.BHE,Urban
+UKPARL.2025.BHG,Urban
+UKPARL.2025.BHW,Urban
+UKPARL.2025.BIA,Rural
+UKPARL.2025.BIM,Rural
+UKPARL.2025.BKG,Urban
+UKPARL.2025.BKH,Urban
+UKPARL.2025.BKP,Urban
+UKPARL.2025.BLA,Urban
+UKPARL.2025.BLN,Urban
+UKPARL.2025.BLS,Urban
+UKPARL.2025.BLW,Urban
+UKPARL.2025.BMS,Urban
+UKPARL.2025.BNE,Urban
+UKPARL.2025.BNF,Urban
+UKPARL.2025.BNN,Urban
+UKPARL.2025.BNS,Urban
+UKPARL.2025.BNW,Urban
+UKPARL.2025.BOL,Rural
+UKPARL.2025.BOS,Urban
+UKPARL.2025.BPB,Urban
+UKPARL.2025.BPN,Urban
+UKPARL.2025.BPS,Urban
+UKPARL.2025.BPV,Urban
+UKPARL.2025.BRC,Sparse and rural
+UKPARL.2025.BRD,Rural
+UKPARL.2025.BRG,Urban with rural areas
+UKPARL.2025.BRK,Urban
+UKPARL.2025.BRL,Urban
+UKPARL.2025.BRS,Sparse and rural
+UKPARL.2025.BRW,Rural
+UKPARL.2025.BSC,Urban
+UKPARL.2025.BSE,Urban
+UKPARL.2025.BSK,Urban
+UKPARL.2025.BSL,Urban with rural areas
+UKPARL.2025.BSN,Urban
+UKPARL.2025.BSO,Urban
+UKPARL.2025.BSS,Urban
+UKPARL.2025.BTE,Urban
+UKPARL.2025.BTH,Urban
+UKPARL.2025.BTL,Urban
+UKPARL.2025.BTN,Urban
+UKPARL.2025.BTR,Urban with rural areas
+UKPARL.2025.BTS,Urban with rural areas
+UKPARL.2025.BTW,Urban
+UKPARL.2025.BUC,Urban with rural areas
+UKPARL.2025.BUN,Urban
+UKPARL.2025.BUR,Urban
+UKPARL.2025.BUS,Urban
+UKPARL.2025.BWE,Urban
+UKPARL.2025.BWS,Rural
+UKPARL.2025.BWT,Urban with rural areas
+UKPARL.2025.BXB,Urban
+UKPARL.2025.BXC,Urban
+UKPARL.2025.BXT,Urban
+UKPARL.2025.BYA,Urban
+UKPARL.2025.CAA,Urban with rural areas
+UKPARL.2025.CAB,Urban with rural areas
+UKPARL.2025.CAE,Urban with rural areas
+UKPARL.2025.CAF,Urban
+UKPARL.2025.CAN,Sparse and rural
+UKPARL.2025.CAR,Urban with rural areas
+UKPARL.2025.CAV,Urban with rural areas
+UKPARL.2025.CAW,Urban
+UKPARL.2025.CAY,Urban with rural areas
+UKPARL.2025.CBG,Urban
+UKPARL.2025.CBH,Urban
+UKPARL.2025.CCH,Urban with rural areas
+UKPARL.2025.CDL,Urban
+UKPARL.2025.CDP,Sparse and rural
+UKPARL.2025.CDV,Sparse and rural
+UKPARL.2025.CEA,Urban
+UKPARL.2025.CFE,Urban
+UKPARL.2025.CFN,Urban
+UKPARL.2025.CFP,Urban
+UKPARL.2025.CFW,Urban
+UKPARL.2025.CHD,Urban
+UKPARL.2025.CHM,Urban
+UKPARL.2025.CHN,Urban
+UKPARL.2025.CHR,Urban
+UKPARL.2025.CHS,Sparse and rural
+UKPARL.2025.CKC,Urban
+UKPARL.2025.CKH,Urban with rural areas
+UKPARL.2025.CKY,Urban with rural areas
+UKPARL.2025.CLE,Rural
+UKPARL.2025.CLN,Urban with rural areas
+UKPARL.2025.CLT,Urban with rural areas
+UKPARL.2025.CLW,Urban
+UKPARL.2025.CNG,Urban with rural areas
+UKPARL.2025.CNM,Urban
+UKPARL.2025.CNW,Urban
+UKPARL.2025.COL,Urban
+UKPARL.2025.COR,Rural
+UKPARL.2025.COV,Urban with rural areas
+UKPARL.2025.CPB,Urban
+UKPARL.2025.CPM,Urban with rural areas
+UKPARL.2025.CPT,Urban
+UKPARL.2025.CRA,Urban
+UKPARL.2025.CRE,Urban
+UKPARL.2025.CRK,Rural
+UKPARL.2025.CRL,Urban with rural areas
+UKPARL.2025.CRR,Rural
+UKPARL.2025.CRS,Urban
+UKPARL.2025.CRW,Urban
+UKPARL.2025.CSI,Rural
+UKPARL.2025.CSO,Urban
+UKPARL.2025.CSR,Sparse and rural
+UKPARL.2025.CTB,Urban with rural areas
+UKPARL.2025.CTM,Urban
+UKPARL.2025.CWG,Urban
+UKPARL.2025.CWN,Urban
+UKPARL.2025.DAB,Urban
+UKPARL.2025.DAD,Urban with rural areas
+UKPARL.2025.DAE,Rural
+UKPARL.2025.DAG,Rural
+UKPARL.2025.DAH,Urban with rural areas
+UKPARL.2025.DAR,Urban
+UKPARL.2025.DAV,Sparse and rural
+UKPARL.2025.DAW,Rural
+UKPARL.2025.DCT,Sparse and rural
+UKPARL.2025.DED,Sparse and rural
+UKPARL.2025.DEN,Urban
+UKPARL.2025.DES,Urban
+UKPARL.2025.DFD,Urban
+UKPARL.2025.DFR,Urban with rural areas
+UKPARL.2025.DHM,Rural
+UKPARL.2025.DLB,Urban
+UKPARL.2025.DMD,Sparse and rural
+UKPARL.2025.DNC,Urban
+UKPARL.2025.DNE,Rural
+UKPARL.2025.DNN,Urban with rural areas
+UKPARL.2025.DRL,Urban
+UKPARL.2025.DUD,Urban
+UKPARL.2025.DUN,Urban
+UKPARL.2025.DWN,Urban
+UKPARL.2025.EAC,Urban
+UKPARL.2025.EAE,Urban
+UKPARL.2025.EAN,Rural
+UKPARL.2025.EAR,Urban
+UKPARL.2025.EAS,Rural
+UKPARL.2025.EAT,Urban
+UKPARL.2025.EAW,Urban
+UKPARL.2025.EBN,Urban
+UKPARL.2025.ECA,Urban
+UKPARL.2025.EEC,Rural
+UKPARL.2025.EEM,Urban
+UKPARL.2025.EGU,Urban with rural areas
+UKPARL.2025.EHA,Urban with rural areas
+UKPARL.2025.EHM,Urban
+UKPARL.2025.EKS,Urban with rural areas
+UKPARL.2025.ELD,Sparse and rural
+UKPARL.2025.ELN,Urban
+UKPARL.2025.ELP,Urban
+UKPARL.2025.ELS,Urban
+UKPARL.2025.ENF,Urban
+UKPARL.2025.ENL,Urban
+UKPARL.2025.EPF,Urban
+UKPARL.2025.ERF,Urban with rural areas
+UKPARL.2025.ERW,Urban
+UKPARL.2025.ESL,Urban
+UKPARL.2025.ESO,Urban
+UKPARL.2025.ESU,Urban with rural areas
+UKPARL.2025.ESW,Urban
+UKPARL.2025.ETH,Urban
+UKPARL.2025.EWE,Urban with rural areas
+UKPARL.2025.EWH,Urban
+UKPARL.2025.EWS,Urban
+UKPARL.2025.EWT,Sparse and rural
+UKPARL.2025.EXM,Urban with rural areas
+UKPARL.2025.EXT,Urban
+UKPARL.2025.FAB,Urban with rural areas
+UKPARL.2025.FAH,Urban with rural areas
+UKPARL.2025.FAV,Urban with rural areas
+UKPARL.2025.FAW,Urban with rural areas
+UKPARL.2025.FBS,Urban
+UKPARL.2025.FEL,Urban
+UKPARL.2025.FES,Rural
+UKPARL.2025.FGG,Urban
+UKPARL.2025.FLK,Urban
+UKPARL.2025.FOD,Sparse and rural
+UKPARL.2025.FOY,Urban with rural areas
+UKPARL.2025.FST,Sparse and rural
+UKPARL.2025.FYL,Urban with rural areas
+UKPARL.2025.GAA,Urban with rural areas
+UKPARL.2025.GAB,Urban with rural areas
+UKPARL.2025.GAD,Urban
+UKPARL.2025.GAP,Rural
+UKPARL.2025.GAR,Urban
+UKPARL.2025.GAS,Sparse and rural
+UKPARL.2025.GAW,Urban
+UKPARL.2025.GCW,Urban
+UKPARL.2025.GDB,Sparse and rural
+UKPARL.2025.GEA,Urban
+UKPARL.2025.GED,Urban
+UKPARL.2025.GGC,Urban
+UKPARL.2025.GLO,Urban
+UKPARL.2025.GMF,Urban with rural areas
+UKPARL.2025.GNB,Sparse and rural
+UKPARL.2025.GNE,Urban
+UKPARL.2025.GNO,Urban
+UKPARL.2025.GOS,Urban
+UKPARL.2025.GRV,Urban with rural areas
+UKPARL.2025.GSO,Urban
+UKPARL.2025.GSW,Urban
+UKPARL.2025.GUI,Urban with rural areas
+UKPARL.2025.GWE,Urban
+UKPARL.2025.GWR,Urban with rural areas
+UKPARL.2025.GYM,Rural
+UKPARL.2025.HAB,Urban with rural areas
+UKPARL.2025.HAC,Urban
+UKPARL.2025.HAE,Urban
+UKPARL.2025.HAH,Urban
+UKPARL.2025.HAL,Urban
+UKPARL.2025.HAP,Urban
+UKPARL.2025.HAR,Urban with rural areas
+UKPARL.2025.HAS,Urban
+UKPARL.2025.HAT,Rural
+UKPARL.2025.HAU,Urban
+UKPARL.2025.HAV,Urban
+UKPARL.2025.HAW,Urban
+UKPARL.2025.HAY,Urban
+UKPARL.2025.HAZ,Urban
+UKPARL.2025.HBS,Urban with rural areas
+UKPARL.2025.HBV,Urban with rural areas
+UKPARL.2025.HCV,Urban with rural areas
+UKPARL.2025.HEN,Urban
+UKPARL.2025.HEX,Rural
+UKPARL.2025.HFB,Urban
+UKPARL.2025.HFX,Urban
+UKPARL.2025.HGK,Urban with rural areas
+UKPARL.2025.HIT,Rural
+UKPARL.2025.HKB,Urban with rural areas
+UKPARL.2025.HLW,Urban with rural areas
+UKPARL.2025.HML,Urban
+UKPARL.2025.HMN,Urban
+UKPARL.2025.HMR,Urban with rural areas
+UKPARL.2025.HNE,Urban with rural areas
+UKPARL.2025.HNS,Sparse and rural
+UKPARL.2025.HOW,Urban with rural areas
+UKPARL.2025.HPK,Urban with rural areas
+UKPARL.2025.HPL,Urban
+UKPARL.2025.HRH,Rural
+UKPARL.2025.HRS,Urban with rural areas
+UKPARL.2025.HSD,Urban
+UKPARL.2025.HSN,Urban
+UKPARL.2025.HSP,Urban
+UKPARL.2025.HSS,Urban
+UKPARL.2025.HTD,Rural
+UKPARL.2025.HUD,Urban
+UKPARL.2025.HUE,Urban
+UKPARL.2025.HUN,Urban
+UKPARL.2025.HUW,Urban
+UKPARL.2025.HWC,Rural
+UKPARL.2025.HYB,Urban
+UKPARL.2025.ILN,Urban
+UKPARL.2025.ILS,Urban
+UKPARL.2025.IPS,Urban
+UKPARL.2025.IRW,Urban with rural areas
+UKPARL.2025.ISN,Urban
+UKPARL.2025.ISS,Urban
+UKPARL.2025.ISW,Urban with rural areas
+UKPARL.2025.IWE,Urban with rural areas
+UKPARL.2025.IWW,Urban with rural areas
+UKPARL.2025.JGE,Urban
+UKPARL.2025.KAB,Urban
+UKPARL.2025.KAI,Urban with rural areas
+UKPARL.2025.KAL,Rural
+UKPARL.2025.KAS,Urban
+UKPARL.2025.KET,Urban with rural areas
+UKPARL.2025.KLW,Rural
+UKPARL.2025.KNW,Urban
+UKPARL.2025.KSS,Urban with rural areas
+UKPARL.2025.LAA,Urban
+UKPARL.2025.LAH,Sparse and rural
+UKPARL.2025.LAN,Rural
+UKPARL.2025.LAW,Urban
+UKPARL.2025.LBO,Urban
+UKPARL.2025.LCH,Urban
+UKPARL.2025.LEA,Urban
+UKPARL.2025.LEE,Urban
+UKPARL.2025.LES,Urban
+UKPARL.2025.LEW,Urban
+UKPARL.2025.LGT,Urban
+UKPARL.2025.LGV,Rural
+UKPARL.2025.LIC,Rural
+UKPARL.2025.LLE,Urban with rural areas
+UKPARL.2025.LNC,Urban
+UKPARL.2025.LNE,Urban
+UKPARL.2025.LNW,Urban
+UKPARL.2025.LOE,Rural
+UKPARL.2025.LRV,Urban
+UKPARL.2025.LSO,Urban
+UKPARL.2025.LSW,Urban
+UKPARL.2025.LUN,Urban
+UKPARL.2025.LUS,Urban with rural areas
+UKPARL.2025.LVG,Urban with rural areas
+UKPARL.2025.LWD,Urban
+UKPARL.2025.LWE,Urban
+UKPARL.2025.LWL,Urban
+UKPARL.2025.LWN,Urban
+UKPARL.2025.LWP,Urban
+UKPARL.2025.LWS,Urban with rural areas
+UKPARL.2025.LWT,Urban
+UKPARL.2025.LWV,Urban
+UKPARL.2025.LWW,Urban
+UKPARL.2025.MAC,Urban
+UKPARL.2025.MAG,Sparse and rural
+UKPARL.2025.MAI,Urban
+UKPARL.2025.MAL,Rural
+UKPARL.2025.MAM,Urban
+UKPARL.2025.MAN,Urban with rural areas
+UKPARL.2025.MAS,Urban with rural areas
+UKPARL.2025.MBD,Rural
+UKPARL.2025.MBU,Sparse and rural
+UKPARL.2025.MCH,Urban
+UKPARL.2025.MCL,Urban with rural areas
+UKPARL.2025.MCT,Urban
+UKPARL.2025.MDB,Urban with rural areas
+UKPARL.2025.MDE,Urban
+UKPARL.2025.MDP,Urban with rural areas
+UKPARL.2025.MDS,Urban with rural areas
+UKPARL.2025.MID,Urban with rural areas
+UKPARL.2025.MKC,Urban
+UKPARL.2025.MKF,Urban
+UKPARL.2025.MKM,Rural
+UKPARL.2025.MKN,Urban with rural areas
+UKPARL.2025.MLE,Urban with rural areas
+UKPARL.2025.MMS,Rural
+UKPARL.2025.MNF,Sparse and rural
+UKPARL.2025.MNS,Sparse and rural
+UKPARL.2025.MOR,Rural
+UKPARL.2025.MRH,Urban
+UKPARL.2025.MSE,Urban with rural areas
+UKPARL.2025.MSP,Sparse and rural
+UKPARL.2025.MSU,Urban
+UKPARL.2025.MTA,Urban with rural areas
+UKPARL.2025.MTE,Urban
+UKPARL.2025.MUL,Sparse and rural
+UKPARL.2025.MWC,Urban with rural areas
+UKPARL.2025.MWI,Urban
+UKPARL.2025.NAA,Rural
+UKPARL.2025.NAH,Rural
+UKPARL.2025.NAN,Sparse and rural
+UKPARL.2025.NAR,Sparse and rural
+UKPARL.2025.NAS,Rural
+UKPARL.2025.NBD,Rural
+UKPARL.2025.NBY,Urban with rural areas
+UKPARL.2025.NCE,Urban
+UKPARL.2025.NCL,Urban
+UKPARL.2025.NCN,Urban
+UKPARL.2025.NCR,Sparse and rural
+UKPARL.2025.NCT,Sparse and rural
+UKPARL.2025.NDH,Urban with rural areas
+UKPARL.2025.NDS,Sparse and rural
+UKPARL.2025.NDV,Rural
+UKPARL.2025.NDW,Urban with rural areas
+UKPARL.2025.NEC,Urban with rural areas
+UKPARL.2025.NED,Urban
+UKPARL.2025.NEF,Sparse and rural
+UKPARL.2025.NEH,Rural
+UKPARL.2025.NES,Urban with rural areas
+UKPARL.2025.NFE,Urban with rural areas
+UKPARL.2025.NFW,Urban with rural areas
+UKPARL.2025.NGE,Urban
+UKPARL.2025.NGN,Urban
+UKPARL.2025.NGS,Urban
+UKPARL.2025.NHI,Sparse and rural
+UKPARL.2025.NHN,Urban
+UKPARL.2025.NHR,Sparse and rural
+UKPARL.2025.NHS,Urban
+UKPARL.2025.NNF,Sparse and rural
+UKPARL.2025.NNU,Sparse and rural
+UKPARL.2025.NPE,Urban with rural areas
+UKPARL.2025.NPI,Urban
+UKPARL.2025.NRN,Urban
+UKPARL.2025.NRS,Urban
+UKPARL.2025.NSO,Sparse and rural
+UKPARL.2025.NSS,Urban with rural areas
+UKPARL.2025.NSW,Urban with rural areas
+UKPARL.2025.NTA,Urban with rural areas
+UKPARL.2025.NUL,Urban with rural areas
+UKPARL.2025.NUN,Urban
+UKPARL.2025.NWB,Rural
+UKPARL.2025.NWC,Rural
+UKPARL.2025.NWE,Sparse and rural
+UKPARL.2025.NWH,Urban with rural areas
+UKPARL.2025.NWK,Rural
+UKPARL.2025.NWL,Rural
+UKPARL.2025.NWN,Rural
+UKPARL.2025.OAS,Sparse and rural
+UKPARL.2025.OBS,Urban
+UKPARL.2025.ODB,Urban with rural areas
+UKPARL.2025.OLE,Urban
+UKPARL.2025.OLW,Urban
+UKPARL.2025.ORP,Urban
+UKPARL.2025.OXE,Urban
+UKPARL.2025.OXW,Urban
+UKPARL.2025.PAL,Urban
+UKPARL.2025.PAS,Urban with rural areas
+UKPARL.2025.PBO,Urban
+UKPARL.2025.PCK,Urban
+UKPARL.2025.PDL,Urban with rural areas
+UKPARL.2025.PEN,Sparse and rural
+UKPARL.2025.PHK,Sparse and rural
+UKPARL.2025.PKM,Urban
+UKPARL.2025.PLE,Urban
+UKPARL.2025.PMV,Urban
+UKPARL.2025.PON,Urban
+UKPARL.2025.POS,Urban
+UKPARL.2025.PPD,Urban with rural areas
+UKPARL.2025.PRE,Urban
+UKPARL.2025.PRN,Urban
+UKPARL.2025.PRS,Urban
+UKPARL.2025.PSD,Urban
+UKPARL.2025.PUT,Urban
+UKPARL.2025.QPK,Urban
+UKPARL.2025.RAC,Urban
+UKPARL.2025.RAD,Urban
+UKPARL.2025.RAH,Urban with rural areas
+UKPARL.2025.RAN,Sparse and rural
+UKPARL.2025.RAO,Rural
+UKPARL.2025.RAS,Urban with rural areas
+UKPARL.2025.RAW,Urban
+UKPARL.2025.RCD,Urban
+UKPARL.2025.RCF,Rural
+UKPARL.2025.RDC,Urban with rural areas
+UKPARL.2025.RDG,Urban
+UKPARL.2025.RDW,Rural
+UKPARL.2025.RED,Urban with rural areas
+UKPARL.2025.REI,Urban
+UKPARL.2025.RGN,Urban
+UKPARL.2025.RHM,Urban
+UKPARL.2025.RHV,Urban with rural areas
+UKPARL.2025.RIV,Rural
+UKPARL.2025.RMF,Urban
+UKPARL.2025.RNP,Urban
+UKPARL.2025.RPK,Urban
+UKPARL.2025.RSO,Urban with rural areas
+UKPARL.2025.RUG,Urban with rural areas
+UKPARL.2025.RUN,Urban
+UKPARL.2025.RUT,Sparse and rural
+UKPARL.2025.SAB,Urban
+UKPARL.2025.SAC,Urban
+UKPARL.2025.SAH,Urban
+UKPARL.2025.SAL,Sparse and rural
+UKPARL.2025.SAN,Rural
+UKPARL.2025.SAR,Sparse and rural
+UKPARL.2025.SAS,Urban with rural areas
+UKPARL.2025.SAU,Urban
+UKPARL.2025.SAW,Urban with rural areas
+UKPARL.2025.SBH,Urban
+UKPARL.2025.SBR,Urban
+UKPARL.2025.SBT,Urban with rural areas
+UKPARL.2025.SBY,Rural
+UKPARL.2025.SCB,Rural
+UKPARL.2025.SCE,Urban
+UKPARL.2025.SCN,Urban
+UKPARL.2025.SCT,Sparse and rural
+UKPARL.2025.SCU,Urban with rural areas
+UKPARL.2025.SDE,Rural
+UKPARL.2025.SDS,Urban with rural areas
+UKPARL.2025.SDV,Rural
+UKPARL.2025.SDW,Sparse and rural
+UKPARL.2025.SEC,Sparse and rural
+UKPARL.2025.SEF,Urban
+UKPARL.2025.SER,Urban
+UKPARL.2025.SEV,Rural
+UKPARL.2025.SFC,Rural
+UKPARL.2025.SFD,Urban
+UKPARL.2025.SGF,Sparse and rural
+UKPARL.2025.SGW,Rural
+UKPARL.2025.SHA,Urban
+UKPARL.2025.SHD,Rural
+UKPARL.2025.SHE,Urban
+UKPARL.2025.SHN,Urban
+UKPARL.2025.SHR,Urban with rural areas
+UKPARL.2025.SHS,Urban
+UKPARL.2025.SHY,Urban with rural areas
+UKPARL.2025.SKN,Urban
+UKPARL.2025.SKW,Urban with rural areas
+UKPARL.2025.SLE,Rural
+UKPARL.2025.SLO,Urban
+UKPARL.2025.SLR,Rural
+UKPARL.2025.SMK,Urban
+UKPARL.2025.SNC,Rural
+UKPARL.2025.SNF,Sparse and rural
+UKPARL.2025.SNH,Sparse and rural
+UKPARL.2025.SNN,Urban
+UKPARL.2025.SNQ,Rural
+UKPARL.2025.SNS,Urban
+UKPARL.2025.SOA,Sparse and rural
+UKPARL.2025.SOI,Urban
+UKPARL.2025.SOP,Urban with rural areas
+UKPARL.2025.SOT,Urban
+UKPARL.2025.SPL,Urban
+UKPARL.2025.SPT,Urban
+UKPARL.2025.SPV,Urban
+UKPARL.2025.SRH,Urban with rural areas
+UKPARL.2025.SRI,Urban with rural areas
+UKPARL.2025.SSE,Urban
+UKPARL.2025.SSF,Sparse and rural
+UKPARL.2025.SSH,Urban
+UKPARL.2025.SSO,Sparse and rural
+UKPARL.2025.STA,Urban
+UKPARL.2025.STC,Urban
+UKPARL.2025.STF,Urban with rural areas
+UKPARL.2025.STG,Rural
+UKPARL.2025.STM,Urban with rural areas
+UKPARL.2025.STN,Urban
+UKPARL.2025.STR,Urban with rural areas
+UKPARL.2025.STS,Urban with rural areas
+UKPARL.2025.STV,Sparse and rural
+UKPARL.2025.SUN,Urban
+UKPARL.2025.SUT,Urban
+UKPARL.2025.SVG,Urban
+UKPARL.2025.SWD,Urban with rural areas
+UKPARL.2025.SWF,Rural
+UKPARL.2025.SWG,Urban
+UKPARL.2025.SWH,Urban
+UKPARL.2025.SWL,Urban
+UKPARL.2025.SWN,Sparse and rural
+UKPARL.2025.SWS,Urban
+UKPARL.2025.SWT,Urban
+UKPARL.2025.SWW,Urban with rural areas
+UKPARL.2025.SXW,Rural
+UKPARL.2025.TAM,Sparse and rural
+UKPARL.2025.TAT,Urban with rural areas
+UKPARL.2025.TAV,Sparse and rural
+UKPARL.2025.TAW,Urban with rural areas
+UKPARL.2025.TAY,Urban with rural areas
+UKPARL.2025.TEW,Urban with rural areas
+UKPARL.2025.TFD,Urban
+UKPARL.2025.THK,Urban
+UKPARL.2025.TIP,Urban
+UKPARL.2025.TIV,Sparse and rural
+UKPARL.2025.TMW,Urban with rural areas
+UKPARL.2025.TNW,Urban with rural areas
+UKPARL.2025.TON,Rural
+UKPARL.2025.TOO,Urban
+UKPARL.2025.TOR,Urban
+UKPARL.2025.TOT,Urban
+UKPARL.2025.TRB,Urban
+UKPARL.2025.TRF,Urban with rural areas
+UKPARL.2025.TWI,Urban
+UKPARL.2025.TYN,Urban
+UKPARL.2025.UBN,Urban with rural areas
+UKPARL.2025.UXB,Urban
+UKPARL.2025.VCG,Urban
+UKPARL.2025.VOG,Urban with rural areas
+UKPARL.2025.WAB,Urban
+UKPARL.2025.WAE,Sparse and rural
+UKPARL.2025.WAH,Urban
+UKPARL.2025.WAK,Sparse and rural
+UKPARL.2025.WAL,Sparse and rural
+UKPARL.2025.WAN,Urban with rural areas
+UKPARL.2025.WAS,Urban
+UKPARL.2025.WAT,Urban
+UKPARL.2025.WAV,Sparse and rural
+UKPARL.2025.WAW,Rural
+UKPARL.2025.WBR,Urban with rural areas
+UKPARL.2025.WBW,Urban
+UKPARL.2025.WDB,Urban
+UKPARL.2025.WDS,Sparse and rural
+UKPARL.2025.WEL,Sparse and rural
+UKPARL.2025.WGN,Urban
+UKPARL.2025.WGS,Urban
+UKPARL.2025.WHB,Urban
+UKPARL.2025.WHT,Urban
+UKPARL.2025.WHW,Urban
+UKPARL.2025.WIM,Urban
+UKPARL.2025.WIN,Rural
+UKPARL.2025.WIR,Urban
+UKPARL.2025.WIT,Rural
+UKPARL.2025.WKF,Urban
+UKPARL.2025.WKL,Urban
+UKPARL.2025.WKM,Urban with rural areas
+UKPARL.2025.WKT,Sparse and rural
+UKPARL.2025.WLA,Urban with rural areas
+UKPARL.2025.WLL,Urban
+UKPARL.2025.WND,Urban
+UKPARL.2025.WNE,Urban
+UKPARL.2025.WOK,Urban
+UKPARL.2025.WOR,Urban
+UKPARL.2025.WRE,Urban with rural areas
+UKPARL.2025.WRH,Urban
+UKPARL.2025.WRK,Urban with rural areas
+UKPARL.2025.WSE,Urban
+UKPARL.2025.WSF,Rural
+UKPARL.2025.WSL,Urban
+UKPARL.2025.WSM,Urban
+UKPARL.2025.WTM,Rural
+UKPARL.2025.WTY,Sparse and rural
+UKPARL.2025.WWE,Urban
+UKPARL.2025.WWR,Sparse and rural
+UKPARL.2025.WYC,Urban
+UKPARL.2025.WYF,Urban with rural areas
+UKPARL.2025.WYT,Urban
+UKPARL.2025.YEO,Rural
+UKPARL.2025.YNM,Sparse and rural
+UKPARL.2025.YOC,Urban
+UKPARL.2025.YOO,Urban with rural areas

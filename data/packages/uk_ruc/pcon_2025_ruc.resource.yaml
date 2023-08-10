@@ -1,10 +1,10 @@
-title: Westminster Constituency RUC Profile
+title: Westminster Constituency RUC Profile (2025 Constituencies)
 description: Based on urban/rural classification of LSOAs, a RUC label and profile
-  for each Westminster constituency.
+  for each Westminster constituency (2025 constituencies).
 custom:
   row_count: 650
-path: pcon_ruc.csv
-name: pcon_ruc
+path: pcon_2025_ruc.csv
+name: pcon_2025_ruc
 profile: tabular-data-resource
 scheme: file
 format: csv
@@ -12,19 +12,19 @@ hashing: md5
 encoding: utf-8
 schema:
   fields:
-  - name: gss-code
+  - name: parl25
     type: string
-    description: GSS code for 2010-set Westminster Parliamentary constituencies
+    description: Short codes from https://pages.mysociety.org/2025-constituencies/datasets/parliament_con_2025/latest
     constraints:
       unique: true
-    example: E14000530
+    example: UKPARL.2025.AAD
   - name: constituency-name
     type: string
     description: Name of constituency
     constraints:
       unique: true
-    example: Aberavon
-  - name: highly-rural
+    example: Aberafan Maesteg
+  - name: highly_rural
     type: number
     description: Percentage of population who live in highly rural LSOAs in constituency
     constraints:
@@ -42,16 +42,15 @@ schema:
     constraints:
       unique: false
     example: 0.0
-  - name: ruc-cluster-label
+  - name: label
     type: string
-    description: Constituencies grouped into four clusters based on the different
-      profiles of the three figures.
+    description: Constituencies grouped into four clusters based on the different profiles of the three figures.
     constraints:
       unique: false
       enum:
-      - Urban
       - Urban with rural areas
       - Rural
+      - Urban
       - Sparse and rural
     example: Rural
-hash: 40e59e43c6ac36dc46568ba24782f649
+hash: c5f0c390b49144a82f8f38e60fca299e

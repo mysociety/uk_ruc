@@ -145,7 +145,7 @@ def add_clusters_to_con_data():
 
     start_columns = ["gss-code", "constituency-name"]
 
-    df = df[start_columns + [x for x in df.columns if x not in start_columns]]
+    df = df[start_columns + [x for x in df.columns if x not in start_columns]]  # type: ignore
     df.to_csv(Path("data", "packages", "uk_ruc", "pcon_ruc.csv"), index=False)
 
 
@@ -160,6 +160,11 @@ def generate_con_data():
     add_clusters_to_con_data()
 
 
+def generate_con_2025_data():
+    run_notebook(Path("notebooks", "ruc_clustering_cons_2025.ipynb"))
+
+
 if __name__ == "__main__":
     generate_la_data()
     generate_con_data()
+    generate_con_2025_data()

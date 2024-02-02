@@ -24,9 +24,12 @@ versions:
   2.1.0-futurecouncils:
   - 2.1.0-futurecouncils
   2.2.0:
-  - '2'
   - '2.2'
   - 2.2.0
+  2.3.0:
+  - '2'
+  - '2.3'
+  - 2.3.0
   - latest
 permalink: /datasets/uk_ruc/versions
 ---

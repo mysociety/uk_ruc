@@ -5,6 +5,6 @@ package: uk_ruc
 title: pcon_ruc
 filename: pcon_ruc.parquet
 version: latest
-full_version: 2.2.0
+full_version: 2.3.0
 file: /data/uk_ruc/latest/pcon_ruc.parquet
 ---

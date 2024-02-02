@@ -46,6 +46,10 @@ custom:
     2.1.0-futurecouncils: ''
     2.1.0: Release 2023 council data
     2.2.0: 'New resource(s) added: pcon_2025_ruc,pcon_ruc'
+    2.3.0: 'Change in data for resource(s): la_ruc'
+  datasette:
+    about: Info & Downloads
+    about_url: https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0
   formats:
     csv: true
     parquet: true
@@ -55,6 +59,9 @@ resources:
     for small statistical areas.
   custom:
     row_count: 42619
+    datasette:
+      about: Info & Downloads
+      about_url: https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0#composite_ruc
   path: composite_ruc.csv
   name: composite_ruc
   profile: tabular-data-resource
@@ -97,9 +104,9 @@ resources:
         unique: false
         enum:
         - E
+        - N
         - S
         - W
-        - N
       example: E
     - name: pop
       type: integer
@@ -185,7 +192,10 @@ resources:
 - title: Local Authority RUC Profile
   description: Based on LSOA information, a RUC label and profile for each local authority.
   custom:
-    row_count: 393
+    row_count: 394
+    datasette:
+      about: Info & Downloads
+      about_url: https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0#la_ruc
   path: la_ruc.csv
   name: la_ruc
   profile: tabular-data-resource
@@ -235,17 +245,20 @@ resources:
       constraints:
         unique: false
         enum:
+        - Rural
         - Sparse and rural
         - Urban
-        - Rural
         - Urban with rural areas
       example: Rural
-  hash: 8130f4fc8a86e583f6393ade36006d61
+  hash: d8ac3044cfd0555323903f1efc877c65
 - title: Westminster Constituency RUC Profile (2025 Constituencies)
   description: Based on urban/rural classification of LSOAs, a RUC label and profile
     for each Westminster constituency (2025 constituencies).
   custom:
     row_count: 650
+    datasette:
+      about: Info & Downloads
+      about_url: https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0#pcon_2025_ruc
   path: pcon_2025_ruc.csv
   name: pcon_2025_ruc
   profile: tabular-data-resource
@@ -292,10 +305,10 @@ resources:
       constraints:
         unique: false
         enum:
-        - Urban with rural areas
         - Rural
-        - Urban
         - Sparse and rural
+        - Urban
+        - Urban with rural areas
       example: Rural
   hash: c5f0c390b49144a82f8f38e60fca299e
 - title: Westminster Constituency RUC Profile
@@ -303,6 +316,9 @@ resources:
     for each Westminster constituency.
   custom:
     row_count: 650
+    datasette:
+      about: Info & Downloads
+      about_url: https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0#pcon_ruc
   path: pcon_ruc.csv
   name: pcon_ruc
   profile: tabular-data-resource
@@ -349,12 +365,12 @@ resources:
       constraints:
         unique: false
         enum:
-        - Urban
-        - Urban with rural areas
         - Rural
         - Sparse and rural
+        - Urban
+        - Urban with rural areas
       example: Rural
   hash: 40e59e43c6ac36dc46568ba24782f649
-full_version: 2.2.0
+full_version: 2.3.0
 permalink: /datasets/uk_ruc/latest
 ---

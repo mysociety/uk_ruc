@@ -1,0 +1,59 @@
+title: Local Authority RUC Profile
+description: Based on LSOA information, a RUC label and profile for each local authority.
+custom:
+  row_count: 394
+path: la_ruc.csv
+name: la_ruc
+profile: tabular-data-resource
+scheme: file
+format: csv
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: local-authority-code
+    type: string
+    description: Three/four letter code for a local authority.
+    constraints:
+      unique: true
+    example: ABC
+  - name: official-name
+    type: string
+    description: Standard name of local authority.
+    constraints:
+      unique: true
+    example: Aberdeen City Council
+  - name: highly-rural
+    type: number
+    description: Percentage of the population of an authority that live in a highly
+      rural LSOA
+    constraints:
+      unique: false
+    example: 0.0
+  - name: rural
+    type: number
+    description: Percentage of the population of an authority that live in a rural
+      LSOA
+    constraints:
+      unique: false
+    example: 0.0
+  - name: urban
+    type: number
+    description: Percentage of the population of an authority that live in an urban
+      LSOA
+    constraints:
+      unique: false
+    example: 0.0
+  - name: ruc-cluster-label
+    type: string
+    description: Local authorities grouped into four clusters based on the different
+      profiles of the three figures.
+    constraints:
+      unique: false
+      enum:
+      - Rural
+      - Sparse and rural
+      - Urban
+      - Urban with rural areas
+    example: Rural
+hash: d8ac3044cfd0555323903f1efc877c65

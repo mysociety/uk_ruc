@@ -49,9 +49,9 @@ schema:
     constraints:
       unique: false
       enum:
-      - Urban with rural areas
       - Rural
-      - Urban
       - Sparse and rural
+      - Urban
+      - Urban with rural areas
     example: Rural
 hash: c5f0c390b49144a82f8f38e60fca299e

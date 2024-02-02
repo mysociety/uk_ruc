@@ -59,7 +59,7 @@ CBF,Central Bedfordshire Council,Urban with rural areas
 CCG,Causeway Coast and Glens Borough Council,Sparse and rural
 CGN,Ceredigion County Council,Sparse and rural
 CHA,Charnwood Borough Council,Urban
-CHE,Cheshire East Council,Urban with rural areas
+CHE,Cheshire East Council,Urban
 CHI,Chichester District Council,Rural
 CHL,Chelmsford City Council,Urban with rural areas
 CHO,Chorley Borough Council,Urban with rural areas
@@ -70,7 +70,7 @@ CHW,Cheshire West and Chester Council,Urban with rural areas
 CLD,Calderdale Metropolitan Borough Council,Urban
 CLK,Clackmannanshire Council,Rural
 CMD,London Borough of Camden,Urban
-CMN,Carmarthenshire County Council,Rural
+CMN,Carmarthenshire County Council,Urban with rural areas
 COL,Colchester Borough Council,Urban with rural areas
 CON,Cornwall Council,Rural
 COT,Cotswold District Council,Rural
@@ -82,7 +82,7 @@ CWY,Conwy County Borough Council,Urban with rural areas
 DAC,Dacorum Borough Council,Urban
 DAL,Darlington Borough Council,Urban
 DAR,Dartford Borough Council,Urban
-DEB,Derbyshire Dales District Council,Sparse and rural
+DEB,Derbyshire Dales District Council,Rural
 DEN,Denbighshire County Council,Rural
 DER,Derby City Council,Urban
 DGY,Dumfries and Galloway Council,Sparse and rural
@@ -212,7 +212,7 @@ NGM,Nottingham City Council,Urban
 NHE,North Hertfordshire District Council,Urban
 NKE,North Kesteven District Council,Rural
 NLK,North Lanarkshire Council,Urban
-NLN,North Lincolnshire Council,Rural
+NLN,North Lincolnshire Council,Urban with rural areas
 NMD,"Newry, Mourne and Down District Council",Sparse and rural
 NNO,North Norfolk District Council,Sparse and rural
 NNT,North Northamptonshire Council,Urban with rural areas
@@ -392,3 +392,4 @@ TVCA,Tees Valley Combined Authority,Urban
 WECA,West of England Combined Authority,Urban
 WMCA,West Midlands Combined Authority,Urban
 WYCA,West Yorkshire Combined Authority,Urban
+YNYC,York and North Yorkshire Mayoral Combined Authority,Urban with rural areas

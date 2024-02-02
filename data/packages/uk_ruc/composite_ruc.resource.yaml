@@ -45,9 +45,9 @@ schema:
       unique: false
       enum:
       - E
+      - N
       - S
       - W
-      - N
     example: E
   - name: pop
     type: integer

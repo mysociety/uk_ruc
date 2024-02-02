@@ -1,7 +1,7 @@
 title: Local Authority RUC Profile
 description: Based on LSOA information, a RUC label and profile for each local authority.
 custom:
-  row_count: 393
+  row_count: 394
 path: la_ruc.csv
 name: la_ruc
 profile: tabular-data-resource
@@ -51,9 +51,9 @@ schema:
     constraints:
       unique: false
       enum:
+      - Rural
       - Sparse and rural
       - Urban
-      - Rural
       - Urban with rural areas
     example: Rural
-hash: 8130f4fc8a86e583f6393ade36006d61
+hash: d8ac3044cfd0555323903f1efc877c65

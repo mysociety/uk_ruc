@@ -14,7 +14,7 @@ For small areas (LSOA/Datazones/SOA) there are different measures of if an area 
 
 As these reflect different needs in different nations  (for instance, Scotland is far more concerned with remoteness), these scales are not directly comparable. 
 
-England/Wales have an 11 point scale, Scotland has a varying 2,3,6 and 8 scale, and Northern Ireland has 8 bands for settlement size with a 3 point urban/rural scale (this is a Urban/Rural/Mixed as opposed to Scotland's 3-point scale, which splits rural areas by remoteness).
+England/Wales have an 8 point scale for LSOA, Scotland has a varying 2,3,6 and 8 scale, and Northern Ireland has 8 bands for settlement size with a 3 point urban/rural scale (this is a Urban/Rural/Mixed as opposed to Scotland's 3-point scale, which splits rural areas by remoteness).
 
 While all split in some form into rural/urban areas, these are based on different definitions. For England/Wales a rural area is part of a settlement of less than 10,000 people, while for Northern Ireland this is less than 5,000 people and Scotland it is less than 3,000 people. 
 

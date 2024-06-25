@@ -22,7 +22,7 @@ While all split in some form into rural/urban areas, these are based on differen
 
 All metrics can roughly converge on a binary urban/rural scale where an urban areas are over 10,000 people. For Scotland, using the 6-fold scale, 1-2 are urban, 3-6 are rural. For Northern Ireland, Bands A-D are urban and E-H are rural. 
 
-This is a measure of density that makes most sense in England. A measure roughly equivilent to the Scottish definition (where 5-6 on six point scale are rural) can be found by counting NI G-H bands as rural (max size 2,500), and the RUC E groupings (Villages and Hamlets) as rural. This last one is not directly comparable as different rural classifications in RUC are not based directly on population cut-offs, but is the easiest fix.
+This is a measure of density that makes most sense in England. A measure roughly equivilent to the Scottish definition (where 5-6 on six point scale are rural) can be found by counting NI G-H bands as "more ruralr" (max size 2,500), and the RUC E groupings (Villages and Hamlets) as "more rural". This last one is not directly comparable as different rural classifications in RUC are not based directly on population cut-offs, but is the easiest fix.
 
 This leads to a 2-fold and 3-fold scale:
 

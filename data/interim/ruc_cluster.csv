@@ -59,7 +59,7 @@ CBF,Central Bedfordshire Council,Urban with rural areas
 CCG,Causeway Coast and Glens Borough Council,Sparse and rural
 CGN,Ceredigion County Council,Sparse and rural
 CHA,Charnwood Borough Council,Urban
-CHE,Cheshire East Council,Urban
+CHE,Cheshire East Council,Urban with rural areas
 CHI,Chichester District Council,Rural
 CHL,Chelmsford City Council,Urban with rural areas
 CHO,Chorley Borough Council,Urban with rural areas
@@ -70,7 +70,7 @@ CHW,Cheshire West and Chester Council,Urban with rural areas
 CLD,Calderdale Metropolitan Borough Council,Urban
 CLK,Clackmannanshire Council,Rural
 CMD,London Borough of Camden,Urban
-CMN,Carmarthenshire County Council,Urban with rural areas
+CMN,Carmarthenshire County Council,Rural
 COL,Colchester Borough Council,Urban with rural areas
 CON,Cornwall Council,Rural
 COT,Cotswold District Council,Rural
@@ -82,11 +82,11 @@ CWY,Conwy County Borough Council,Urban with rural areas
 DAC,Dacorum Borough Council,Urban
 DAL,Darlington Borough Council,Urban
 DAR,Dartford Borough Council,Urban
-DEB,Derbyshire Dales District Council,Rural
+DEB,Derbyshire Dales District Council,Sparse and rural
 DEN,Denbighshire County Council,Rural
 DER,Derby City Council,Urban
 DGY,Dumfries and Galloway Council,Sparse and rural
-DNC,Doncaster Metropolitan Borough Council,Urban
+DNC,City of Doncaster Council,Urban
 DND,Dundee City Council,Urban
 DOV,Dover District Council,Urban with rural areas
 DRS,Derry City and Strabane District Council,Urban with rural areas
@@ -212,7 +212,7 @@ NGM,Nottingham City Council,Urban
 NHE,North Hertfordshire District Council,Urban
 NKE,North Kesteven District Council,Rural
 NLK,North Lanarkshire Council,Urban
-NLN,North Lincolnshire Council,Urban with rural areas
+NLN,North Lincolnshire Council,Rural
 NMD,"Newry, Mourne and Down District Council",Sparse and rural
 NNO,North Norfolk District Council,Sparse and rural
 NNT,North Northamptonshire Council,Urban with rural areas
@@ -382,8 +382,11 @@ WAR,Warwickshire County Council,Urban with rural areas
 WOR,Worcestershire County Council,Urban with rural areas
 WSX,West Sussex County Council,Urban with rural areas
 CPCA,Cambridgeshire and Peterborough Combined Authority,Urban with rural areas
+EMCA,East Midlands Combined County Authority,Urban
 GLA,Greater London Authority,Urban
+GLCA,Greater Lincolnshire Combined County Authority,Urban with rural areas
 GMCA,Greater Manchester Combined Authority,Urban
+HYCA,Hull and East Yorkshire Mayoral Combined Authority,Urban with rural areas
 LCR,Liverpool City Region,Urban
 NECA,North East Combined Authority,Urban with rural areas
 NTCA,North of Tyne Combined Authority,Urban with rural areas

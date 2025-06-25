@@ -2,7 +2,7 @@
     "name": "uk_ruc",
     "title": "UK Composite Urban Rural Classification (RUC)",
     "description": "UK-wide dataset of the urban/rural nature of small-areas (LSOA/DZ/SOAs)\n",
-    "version": "2.3.0",
+    "version": "2.4.0",
     "keywords": [
         "Geodata",
         "United Kingdom",
@@ -59,11 +59,12 @@
             "2.1.0-futurecouncils": "",
             "2.1.0": "Release 2023 council data",
             "2.2.0": "New resource(s) added: pcon_2025_ruc,pcon_ruc",
-            "2.3.0": "Change in data for resource(s): la_ruc"
+            "2.3.0": "Change in data for resource(s): la_ruc",
+            "2.4.0": "Change in data for resource(s): la_ruc"
         },
         "datasette": {
             "about": "Info & Downloads",
-            "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0"
+            "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_4_0"
         }
     },
     "resources": [
@@ -74,7 +75,7 @@
                 "row_count": 42619,
                 "datasette": {
                     "about": "Info & Downloads",
-                    "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0#composite_ruc"
+                    "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_4_0#composite_ruc"
                 }
             },
             "path": "composite_ruc.csv",
@@ -246,10 +247,10 @@
             "title": "Local Authority RUC Profile",
             "description": "Based on LSOA information, a RUC label and profile for each local authority.",
             "custom": {
-                "row_count": 394,
+                "row_count": 397,
                 "datasette": {
                     "about": "Info & Downloads",
-                    "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0#la_ruc"
+                    "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_4_0#la_ruc"
                 }
             },
             "path": "la_ruc.csv",
@@ -323,7 +324,7 @@
                     }
                 ]
             },
-            "hash": "d8ac3044cfd0555323903f1efc877c65"
+            "hash": "9a5db07a937676337a5eabf7762a0ce4"
         },
         {
             "title": "Westminster Constituency RUC Profile (2025 Constituencies)",
@@ -332,7 +333,7 @@
                 "row_count": 650,
                 "datasette": {
                     "about": "Info & Downloads",
-                    "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0#pcon_2025_ruc"
+                    "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_4_0#pcon_2025_ruc"
                 }
             },
             "path": "pcon_2025_ruc.csv",
@@ -415,7 +416,7 @@
                 "row_count": 650,
                 "datasette": {
                     "about": "Info & Downloads",
-                    "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_3_0#pcon_ruc"
+                    "about_url": "https://pages.mysociety.org/uk_ruc/datasets/uk_ruc/2_4_0#pcon_ruc"
                 }
             },
             "path": "pcon_ruc.csv",

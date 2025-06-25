@@ -5,6 +5,6 @@ package: uk_ruc
 title: pcon_2025_ruc
 filename: pcon_2025_ruc.csv
 version: latest
-full_version: 2.3.0
+full_version: 2.4.0
 file: /data/uk_ruc/latest/pcon_2025_ruc.csv
 ---

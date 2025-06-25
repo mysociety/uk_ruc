@@ -6,7 +6,7 @@ from data_common.management.run_notebook import run_notebook
 from datetime import date
 
 # get the current pictuer of councils on this date
-council_date = date(2024, 2, 2)
+council_date = date(2025, 6, 25)
 
 
 def get_lsoa_data() -> pd.DataFrame:
